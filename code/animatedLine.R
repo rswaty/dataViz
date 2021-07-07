@@ -91,7 +91,7 @@ fig <- fig %>% animation_button(
 
 fig
 
-
+# export using R-Studio tool in Viewer tab
 
 
 
