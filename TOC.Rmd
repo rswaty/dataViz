@@ -95,6 +95,18 @@ For example chart go [here](./charts/coveHeatChart.png)
 * add character (e.g., "%") to axis labels
 * reverse color ramp
 
+
+## Grouped bar (useful for sclasses, ref vs. current)
+
+For the code go [here](./code/groupedBar.R).
+
+For example chart go [here](./charts/sclasplotHardwoods.png)
+
+* subset to make chart of only one value (BpS in this example)
+* set order of bars (then reverse)
+* pivot data longer
+* has line for facets (commented out)
+
 ## Ordered horizontal bar
 
 ## Bubble
