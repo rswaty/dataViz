@@ -24,22 +24,22 @@ snkyPdata$IDsource <- match(snkyPdata$source, nodes$name)-1
 snkyPdata$IDtarget <- match(snkyPdata$target, nodes$name)-1
 
 # Make the Network
-snkyP <- sankeyNetwork(Links = snkyPdata, 
+snkyP2 <- sankeyNetwork(Links = snkyPdata, 
                        Nodes = nodes,
                        Source = "IDsource", 
                        Target = "IDtarget",
                        Value = "value", 
                        NodeID = "name", 
-                       width = 1200,
+                       width = 1500,
                        height = 600, 
                        fontSize=22,
                        iterations = 0,
                        sinksRight=FALSE,
                        margin = 1)
 
-snkyP
+snkyP2
 
 
-saveNetwork(snkyP, "sankeyP.html", selfcontained = TRUE)
+saveNetwork(snkyP2, "sankeyP2.html", selfcontained = TRUE)
 
 

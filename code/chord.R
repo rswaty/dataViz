@@ -26,28 +26,28 @@ histFireGVchordMatrix2 <- histFireGVchordMatrix[-c(8:10),]
 #make a custom color pallet
 
 # ORIGINAL
-# groupColors <-c( "#e6e0be", # grassland OK
-#                  "#56bf5f", # hardwood OK
-#                  "#1d4220", # conifer OK
-#                  "#7db7c7", # riparian OK
-#                  "#397d3f", # hardwood-conifer OK
-#                  "#917e5c", # shrub
-#                  "#5e513a", # savana
-#                  "#fed98e", # surface
-#                  "#fe9929", # mixed
-#                  "#cc4c02") 
+groupColors <-c( "#e6e0be", # grassland OK
+                 "#56bf5f", # hardwood OK
+                 "#1d4220", # conifer OK
+                 "#7db7c7", # riparian OK
+                 "#397d3f", # hardwood-conifer OK
+                 "#917e5c", # shrub
+                 "#5e513a", # savana
+                 "#fed98e", # surface
+                 "#fe9929", # mixed
+                 "#cc4c02")
 
 #MODIFIED
-groupColors <-c( "#b8e3b9", # grassland OK
-                 "#b8e3b9", # hardwood OK
-                 "#b8e3b9", # conifer OK
-                 "#b8e3b9", # riparian OK
-                 "#b8e3b9", # hardwood-conifer OK
-                 "#b8e3b9", # shrub
-                 "#b8e3b9", # savana
-                 "#e8ede9", # surface
-                 "#bfbfbf", # mixed
-                 "#aba9a9") 
+# groupColors <-c( "#b8e3b9", # grassland OK
+#                  "#b8e3b9", # hardwood OK
+#                  "#b8e3b9", # conifer OK
+#                  "#b8e3b9", # riparian OK
+#                  "#b8e3b9", # hardwood-conifer OK
+#                  "#b8e3b9", # shrub
+#                  "#b8e3b9", # savana
+#                  "#e8ede9", # surface
+#                  "#bfbfbf", # mixed
+#                  "#aba9a9") 
 
 
 

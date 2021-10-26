@@ -107,9 +107,16 @@ For example chart go [here](./charts/sclasplotHardwoods.png)
 * pivot data longer
 * has line for facets (commented out)
 
-## Ordered horizontal bar
+## Ridgeline
 
-## Bubble
+For the code go [here](./code/ridgeline.R).
+
+For example map go [here](./charts/ridgeline)
+
+* has gradients
+* faceted
+* has "repeating lines" data formatting
+* orders facets
 
 # Maps
 
