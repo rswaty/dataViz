@@ -1,0 +1,1968 @@
+BPS_NAME,EVT_PHYS2,ACRES
+Northwestern Great Plains Mixedgrass Prairie,Agricultural,43775331.96
+Northwestern Great Plains Mixedgrass Prairie,NaturalVeg,60427804.15
+Northwestern Great Plains Mixedgrass Prairie,Developed,3000012.096
+Northwestern Great Plains Mixedgrass Prairie,Exotics,5231321.22
+Northwestern Great Plains Mixedgrass Prairie,OtherClearing,81560.58
+Central Mixedgrass Prairie,Agricultural,31422249.63
+Central Mixedgrass Prairie,NaturalVeg,25838117.35
+Central Mixedgrass Prairie,Developed,3280226.712
+Central Mixedgrass Prairie,Exotics,7699584.042
+Central Mixedgrass Prairie,OtherClearing,25075.566
+Western Great Plains Shortgrass Prairie,Agricultural,17259043.24
+Western Great Plains Shortgrass Prairie,NaturalVeg,37736128.54
+Western Great Plains Shortgrass Prairie,Developed,2668221.552
+Western Great Plains Shortgrass Prairie,Exotics,2480538.978
+Western Great Plains Shortgrass Prairie,OtherClearing,110646.132
+Central Tallgrass Prairie,Agricultural,43011962.76
+Central Tallgrass Prairie,NaturalVeg,8293647.162
+Central Tallgrass Prairie,Developed,6053037.348
+Central Tallgrass Prairie,Exotics,2358986.874
+Central Tallgrass Prairie,OtherClearing,14320.11
+Inter-Mountain Basins Big Sagebrush Steppe,Agricultural,4907032.056
+Inter-Mountain Basins Big Sagebrush Steppe,NaturalVeg,29471249.92
+Inter-Mountain Basins Big Sagebrush Steppe,Developed,1017159.822
+Inter-Mountain Basins Big Sagebrush Steppe,Exotics,3565670.76
+Inter-Mountain Basins Big Sagebrush Steppe,OtherClearing,19579.734
+Gulf and Atlantic Coastal Plain Floodplain Systems,Agricultural,13929414.64
+Gulf and Atlantic Coastal Plain Floodplain Systems,NaturalVeg,19337765.1
+Gulf and Atlantic Coastal Plain Floodplain Systems,Developed,2907741.57
+Gulf and Atlantic Coastal Plain Floodplain Systems,Exotics,777931.956
+Gulf and Atlantic Coastal Plain Floodplain Systems,OtherClearing,9798.636
+Northern Tallgrass Prairie,Agricultural,30213259.39
+Northern Tallgrass Prairie,NaturalVeg,1402306.734
+Northern Tallgrass Prairie,Developed,2283333.27
+Northern Tallgrass Prairie,Exotics,1778212.23
+Northern Tallgrass Prairie,OtherClearing,6490.836
+North-Central Interior Dry-Mesic Oak Forest and Woodland,Agricultural,20820640.52
+North-Central Interior Dry-Mesic Oak Forest and Woodland,NaturalVeg,6925954.668
+North-Central Interior Dry-Mesic Oak Forest and Woodland,Developed,5477573.388
+North-Central Interior Dry-Mesic Oak Forest and Woodland,Exotics,1464299.346
+North-Central Interior Dry-Mesic Oak Forest and Woodland,OtherClearing,15129.744
+Inter-Mountain Basins Mixed Salt Desert Scrub,Agricultural,816472.044
+Inter-Mountain Basins Mixed Salt Desert Scrub,NaturalVeg,24790129.28
+Inter-Mountain Basins Mixed Salt Desert Scrub,Developed,411935.208
+Inter-Mountain Basins Mixed Salt Desert Scrub,Exotics,4772661.894
+Inter-Mountain Basins Mixed Salt Desert Scrub,OtherClearing,59511.762
+Northeastern Interior Dry-Mesic Oak Forest,Agricultural,5879798.538
+Northeastern Interior Dry-Mesic Oak Forest,NaturalVeg,16603903.03
+Northeastern Interior Dry-Mesic Oak Forest,Developed,5745951.186
+Northeastern Interior Dry-Mesic Oak Forest,Exotics,620349.03
+Northeastern Interior Dry-Mesic Oak Forest,OtherClearing,19812.834
+Inter-Mountain Basins Montane Sagebrush Steppe,Agricultural,1886127.54
+Inter-Mountain Basins Montane Sagebrush Steppe,NaturalVeg,24364658.51
+Inter-Mountain Basins Montane Sagebrush Steppe,Developed,607298.316
+Inter-Mountain Basins Montane Sagebrush Steppe,Exotics,1134359.394
+Inter-Mountain Basins Montane Sagebrush Steppe,OtherClearing,11700.288
+Western Great Plains Sand Prairie,Agricultural,6118864.788
+Western Great Plains Sand Prairie,NaturalVeg,18708046.12
+Western Great Plains Sand Prairie,Developed,826916.478
+Western Great Plains Sand Prairie,Exotics,1454671.206
+Western Great Plains Sand Prairie,OtherClearing,22505.472
+Southeastern Great Plains Tallgrass Prairie,Agricultural,12539327.45
+Southeastern Great Plains Tallgrass Prairie,NaturalVeg,9079640.16
+Southeastern Great Plains Tallgrass Prairie,Developed,2927048.466
+Southeastern Great Plains Tallgrass Prairie,Exotics,2328433.68
+Southeastern Great Plains Tallgrass Prairie,OtherClearing,26273.7
+Southern Piedmont Dry Oak(-Pine) Forest,Agricultural,3771748.032
+Southern Piedmont Dry Oak(-Pine) Forest,NaturalVeg,15233412.67
+Southern Piedmont Dry Oak(-Pine) Forest,Developed,7426592.418
+Southern Piedmont Dry Oak(-Pine) Forest,Exotics,209744.712
+Southern Piedmont Dry Oak(-Pine) Forest,OtherClearing,10912.632
+Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Agricultural,819939.684
+Sonora-Mojave Creosotebush-White Bursage Desert Scrub,NaturalVeg,21932971.74
+Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Developed,1171743.528
+Sonora-Mojave Creosotebush-White Bursage Desert Scrub,Exotics,656055.954
+Sonora-Mojave Creosotebush-White Bursage Desert Scrub,OtherClearing,16710.384
+Laurentian-Acadian Northern Hardwoods Forest,Agricultural,3010138.404
+Laurentian-Acadian Northern Hardwoods Forest,NaturalVeg,17816284.1
+Laurentian-Acadian Northern Hardwoods Forest,Developed,2238948.81
+Laurentian-Acadian Northern Hardwoods Forest,Exotics,225989.118
+Laurentian-Acadian Northern Hardwoods Forest,OtherClearing,9009.204
+Great Basin Xeric Mixed Sagebrush Shrubland,Agricultural,106797.984
+Great Basin Xeric Mixed Sagebrush Shrubland,NaturalVeg,20991046.39
+Great Basin Xeric Mixed Sagebrush Shrubland,Developed,113274.39
+Great Basin Xeric Mixed Sagebrush Shrubland,Exotics,1266248.706
+Great Basin Xeric Mixed Sagebrush Shrubland,OtherClearing,12561.426
+North-Central Interior Beech-Maple Forest,Agricultural,13671573.41
+North-Central Interior Beech-Maple Forest,NaturalVeg,2533915.104
+North-Central Interior Beech-Maple Forest,Developed,4853112.252
+North-Central Interior Beech-Maple Forest,Exotics,384445.392
+North-Central Interior Beech-Maple Forest,OtherClearing,8172.042
+South-Central Interior Mesophytic Forest,Agricultural,4222015.758
+South-Central Interior Mesophytic Forest,NaturalVeg,13893900.86
+South-Central Interior Mesophytic Forest,Developed,2682182.688
+South-Central Interior Mesophytic Forest,Exotics,561280.158
+South-Central Interior Mesophytic Forest,OtherClearing,34395.348
+Inter-Mountain Basins Big Sagebrush Shrubland-Upland,Agricultural,710678.166
+Inter-Mountain Basins Big Sagebrush Shrubland-Upland,NaturalVeg,17189234.67
+Inter-Mountain Basins Big Sagebrush Shrubland-Upland,Developed,250190.67
+Inter-Mountain Basins Big Sagebrush Shrubland-Upland,Exotics,2132109.534
+Inter-Mountain Basins Big Sagebrush Shrubland-Upland,OtherClearing,31464.948
+Central Interior and Appalachian Floodplain Systems,Agricultural,8399463.906
+Central Interior and Appalachian Floodplain Systems,NaturalVeg,8206495.734
+Central Interior and Appalachian Floodplain Systems,Developed,2821117.17
+Central Interior and Appalachian Floodplain Systems,Exotics,799989.876
+Central Interior and Appalachian Floodplain Systems,OtherClearing,8767.446
+Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,Agricultural,372923.592
+Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,NaturalVeg,18987105.44
+Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,Developed,159095.856
+Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,Exotics,457308.678
+Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush,OtherClearing,23177.466
+Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Agricultural,4531150.98
+Laurentian-Acadian Northern Hardwoods Forest-Hemlock,NaturalVeg,13005378.49
+Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Developed,1720905.816
+Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Exotics,306570.234
+Laurentian-Acadian Northern Hardwoods Forest-Hemlock,OtherClearing,8346.09
+Western Great Plains Floodplain Systems,Agricultural,5864181.726
+Western Great Plains Floodplain Systems,NaturalVeg,10900513.24
+Western Great Plains Floodplain Systems,Developed,878980.806
+Western Great Plains Floodplain Systems,Exotics,1722711.12
+Western Great Plains Floodplain Systems,OtherClearing,9238.086
+Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Agricultural,216975.696
+Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,NaturalVeg,16307434.91
+Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Developed,259437.636
+Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,Exotics,1999375.956
+Apacherian-Chihuahuan Semi-Desert Grassland and Steppe,OtherClearing,64791.588
+East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Agricultural,3921870.648
+East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,NaturalVeg,10830471.58
+East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Developed,2749426.044
+East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,Exotics,821770.074
+East Gulf Coastal Plain Interior Upland Longleaf Pine Woodland,OtherClearing,7538.898
+Southern Interior Low Plateau Dry-Mesic Oak Forest,Agricultural,5459602.266
+Southern Interior Low Plateau Dry-Mesic Oak Forest,NaturalVeg,9398134.902
+Southern Interior Low Plateau Dry-Mesic Oak Forest,Developed,2893331.772
+Southern Interior Low Plateau Dry-Mesic Oak Forest,Exotics,468601.152
+Southern Interior Low Plateau Dry-Mesic Oak Forest,OtherClearing,7088.46
+Allegheny-Cumberland Dry Oak Forest and Woodland,Agricultural,2206354.104
+Allegheny-Cumberland Dry Oak Forest and Woodland,NaturalVeg,13078916.21
+Allegheny-Cumberland Dry Oak Forest and Woodland,Developed,2182407.408
+Allegheny-Cumberland Dry Oak Forest and Woodland,Exotics,517898.916
+Allegheny-Cumberland Dry Oak Forest and Woodland,OtherClearing,18922.836
+Central Interior and Appalachian Riparian Systems,Agricultural,3104615.832
+Central Interior and Appalachian Riparian Systems,NaturalVeg,10438138.97
+Central Interior and Appalachian Riparian Systems,Developed,3392966.526
+Central Interior and Appalachian Riparian Systems,Exotics,313648.482
+Central Interior and Appalachian Riparian Systems,OtherClearing,5959.368
+Gulf and Atlantic Coastal Plain Swamp Systems,Agricultural,3487956.552
+Gulf and Atlantic Coastal Plain Swamp Systems,NaturalVeg,9965398.626
+Gulf and Atlantic Coastal Plain Swamp Systems,Developed,2226226.878
+Gulf and Atlantic Coastal Plain Swamp Systems,Exotics,418202.712
+Gulf and Atlantic Coastal Plain Swamp Systems,OtherClearing,3629.922
+Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Agricultural,31511.346
+Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,NaturalVeg,15364434.63
+Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Developed,55237.596
+Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,Exotics,23784.636
+Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,OtherClearing,1750.692
+Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Agricultural,2370991.302
+Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,NaturalVeg,10592598.58
+Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Developed,1942409.646
+Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,Exotics,457087.122
+Gulf and Atlantic Coastal Plain Small Stream Riparian Systems,OtherClearing,5273.166
+Atlantic Coastal Plain Upland Longleaf Pine Woodland,Agricultural,5021558.526
+Atlantic Coastal Plain Upland Longleaf Pine Woodland,NaturalVeg,6381640.86
+Atlantic Coastal Plain Upland Longleaf Pine Woodland,Developed,3330215.784
+Atlantic Coastal Plain Upland Longleaf Pine Woodland,Exotics,515125.914
+Atlantic Coastal Plain Upland Longleaf Pine Woodland,OtherClearing,3871.68
+North-Central Interior Oak Savanna,Agricultural,6742072.068
+North-Central Interior Oak Savanna,NaturalVeg,5391484.23
+North-Central Interior Oak Savanna,Developed,2216462.652
+North-Central Interior Oak Savanna,Exotics,689892.528
+North-Central Interior Oak Savanna,OtherClearing,6070.59
+Columbia Plateau Steppe and Grassland,Agricultural,4649166.402
+Columbia Plateau Steppe and Grassland,NaturalVeg,8124813.942
+Columbia Plateau Steppe and Grassland,Developed,423329.58
+Columbia Plateau Steppe and Grassland,Exotics,1492345.272
+Columbia Plateau Steppe and Grassland,OtherClearing,985.902
+Central Appalachian Dry Oak-Pine Forest,Agricultural,1321724.286
+Central Appalachian Dry Oak-Pine Forest,NaturalVeg,9681094.326
+Central Appalachian Dry Oak-Pine Forest,Developed,3462547.098
+Central Appalachian Dry Oak-Pine Forest,Exotics,131188.236
+Central Appalachian Dry Oak-Pine Forest,OtherClearing,13112.874
+Ozark-Ouachita Dry Oak Woodland,Agricultural,3353757.552
+Ozark-Ouachita Dry Oak Woodland,NaturalVeg,9290564.358
+Ozark-Ouachita Dry Oak Woodland,Developed,1404035.892
+Ozark-Ouachita Dry Oak Woodland,Exotics,325022.874
+Ozark-Ouachita Dry Oak Woodland,OtherClearing,3375.066
+Western Great Plains Sandhill Steppe,Agricultural,2089323.474
+Western Great Plains Sandhill Steppe,NaturalVeg,10239904.73
+Western Great Plains Sandhill Steppe,Developed,373111.848
+Western Great Plains Sandhill Steppe,Exotics,1072040.664
+Western Great Plains Sandhill Steppe,OtherClearing,33170.574
+Rocky Mountain Montane Riparian Systems,Agricultural,2509836.762
+Rocky Mountain Montane Riparian Systems,NaturalVeg,9746281.518
+Rocky Mountain Montane Riparian Systems,Developed,548836.614
+Rocky Mountain Montane Riparian Systems,Exotics,379783.17
+Rocky Mountain Montane Riparian Systems,OtherClearing,29082.222
+Crosstimbers Oak Forest and Woodland,Agricultural,2025192.114
+Crosstimbers Oak Forest and Woodland,NaturalVeg,7581925.152
+Crosstimbers Oak Forest and Woodland,Developed,1660057.392
+Crosstimbers Oak Forest and Woodland,Exotics,1881412.038
+Crosstimbers Oak Forest and Woodland,OtherClearing,18551.43
+North-Central Interior Maple-Basswood Forest,Agricultural,6808769.748
+North-Central Interior Maple-Basswood Forest,NaturalVeg,3376231.5
+North-Central Interior Maple-Basswood Forest,Developed,1508551.272
+North-Central Interior Maple-Basswood Forest,Exotics,530242.116
+North-Central Interior Maple-Basswood Forest,OtherClearing,4755.684
+Mojave Mid-Elevation Mixed Desert Scrub,Agricultural,29437.644
+Mojave Mid-Elevation Mixed Desert Scrub,NaturalVeg,11358451.51
+Mojave Mid-Elevation Mixed Desert Scrub,Developed,278009.046
+Mojave Mid-Elevation Mixed Desert Scrub,Exotics,460262.61
+Mojave Mid-Elevation Mixed Desert Scrub,OtherClearing,16729.476
+Colorado Plateau Pinyon-Juniper Woodland,Agricultural,75344.802
+Colorado Plateau Pinyon-Juniper Woodland,NaturalVeg,11473245.49
+Colorado Plateau Pinyon-Juniper Woodland,Developed,67718.658
+Colorado Plateau Pinyon-Juniper Woodland,Exotics,123009.312
+Colorado Plateau Pinyon-Juniper Woodland,OtherClearing,6066.15
+Appalachian (Hemlock-)Northern Hardwood Forest,Agricultural,1278123.93
+Appalachian (Hemlock-)Northern Hardwood Forest,NaturalVeg,8036721.234
+Appalachian (Hemlock-)Northern Hardwood Forest,Developed,2274217.506
+Appalachian (Hemlock-)Northern Hardwood Forest,Exotics,133347.186
+Appalachian (Hemlock-)Northern Hardwood Forest,OtherClearing,9664.548
+West Gulf Coastal Plain Pine-Hardwood Forest,Agricultural,1584615.132
+West Gulf Coastal Plain Pine-Hardwood Forest,NaturalVeg,7629858.948
+West Gulf Coastal Plain Pine-Hardwood Forest,Developed,1434757.584
+West Gulf Coastal Plain Pine-Hardwood Forest,Exotics,536170.182
+West Gulf Coastal Plain Pine-Hardwood Forest,OtherClearing,22205.55
+Inter-Mountain Basins Greasewood Flat,Agricultural,1237622.25
+Inter-Mountain Basins Greasewood Flat,NaturalVeg,7243795.398
+Inter-Mountain Basins Greasewood Flat,Developed,300749.616
+Inter-Mountain Basins Greasewood Flat,Exotics,1647798.996
+Inter-Mountain Basins Greasewood Flat,OtherClearing,17568.858
+Ozark-Ouachita Dry-Mesic Oak Forest,Agricultural,2589776.742
+Ozark-Ouachita Dry-Mesic Oak Forest,NaturalVeg,6681537.552
+Ozark-Ouachita Dry-Mesic Oak Forest,Developed,778569.096
+Ozark-Ouachita Dry-Mesic Oak Forest,Exotics,253583.052
+Ozark-Ouachita Dry-Mesic Oak Forest,OtherClearing,2041.956
+Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Agricultural,418908.672
+Acadian Low-Elevation Spruce-Fir-Hardwood Forest,NaturalVeg,9106400.484
+Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Developed,615946.992
+Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Exotics,125039.724
+Acadian Low-Elevation Spruce-Fir-Hardwood Forest,OtherClearing,2524.14
+Southern Rocky Mountain Ponderosa Pine Woodland,Agricultural,73632.738
+Southern Rocky Mountain Ponderosa Pine Woodland,NaturalVeg,9819373.464
+Southern Rocky Mountain Ponderosa Pine Woodland,Developed,147324.306
+Southern Rocky Mountain Ponderosa Pine Woodland,Exotics,69386.1
+Southern Rocky Mountain Ponderosa Pine Woodland,OtherClearing,1803.528
+Edwards Plateau Limestone Savanna and Woodland,Agricultural,202503.516
+Edwards Plateau Limestone Savanna and Woodland,NaturalVeg,6588175.452
+Edwards Plateau Limestone Savanna and Woodland,Developed,795654.882
+Edwards Plateau Limestone Savanna and Woodland,Exotics,2279113.938
+Edwards Plateau Limestone Savanna and Woodland,OtherClearing,15123.972
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Agricultural,1349483.61
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest,NaturalVeg,7262315.082
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Developed,1086991.476
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Exotics,100556.676
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest,OtherClearing,3086.022
+Southern Blackland Tallgrass Prairie,Agricultural,4820511.774
+Southern Blackland Tallgrass Prairie,NaturalVeg,1298117.916
+Southern Blackland Tallgrass Prairie,Developed,2389756.518
+Southern Blackland Tallgrass Prairie,Exotics,1280860.302
+Southern Blackland Tallgrass Prairie,OtherClearing,9546.666
+Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Agricultural,25674.744
+Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,NaturalVeg,9295069.182
+Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Developed,19230.306
+Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,Exotics,15050.046
+Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland,OtherClearing,318.126
+Texas-Louisiana Coastal Prairie,Agricultural,5365796.388
+Texas-Louisiana Coastal Prairie,NaturalVeg,1164312.744
+Texas-Louisiana Coastal Prairie,Developed,1940953.326
+Texas-Louisiana Coastal Prairie,Exotics,555240.648
+Texas-Louisiana Coastal Prairie,OtherClearing,2441.112
+North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Agricultural,382557.726
+North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,NaturalVeg,7460989.764
+North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Developed,1009129.416
+North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,Exotics,92437.692
+North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest,OtherClearing,1460.094
+Boreal Acidic Peatland Systems,Agricultural,229028.964
+Boreal Acidic Peatland Systems,NaturalVeg,8371050.57
+Boreal Acidic Peatland Systems,Developed,167378.676
+Boreal Acidic Peatland Systems,Exotics,92631.942
+Boreal Acidic Peatland Systems,OtherClearing,1103.118
+Tamaulipan Mixed Deciduous Thornscrub,Agricultural,2582493.366
+Tamaulipan Mixed Deciduous Thornscrub,NaturalVeg,4406541.048
+Tamaulipan Mixed Deciduous Thornscrub,Developed,581414.67
+Tamaulipan Mixed Deciduous Thornscrub,Exotics,1122039.504
+Tamaulipan Mixed Deciduous Thornscrub,OtherClearing,30692.832
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,Agricultural,112532.688
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,NaturalVeg,8316262.524
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,Developed,121848.696
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,Exotics,50795.154
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Ponderosa Pine-Douglas-fir,OtherClearing,4015.98
+Southern Piedmont Mesic Forest,Agricultural,875417.04
+Southern Piedmont Mesic Forest,NaturalVeg,5606428.404
+Southern Piedmont Mesic Forest,Developed,1952737.53
+Southern Piedmont Mesic Forest,Exotics,63676.26
+Southern Piedmont Mesic Forest,OtherClearing,3104.448
+Inter-Mountain Basins Semi-Desert Grassland,Agricultural,1008052.05
+Inter-Mountain Basins Semi-Desert Grassland,NaturalVeg,6516197.058
+Inter-Mountain Basins Semi-Desert Grassland,Developed,306971.166
+Inter-Mountain Basins Semi-Desert Grassland,Exotics,351224.424
+Inter-Mountain Basins Semi-Desert Grassland,OtherClearing,7751.352
+Southern Coastal Plain Mesic Slope Forest,Agricultural,1242040.272
+Southern Coastal Plain Mesic Slope Forest,NaturalVeg,4912337.412
+Southern Coastal Plain Mesic Slope Forest,Developed,1388407.314
+Southern Coastal Plain Mesic Slope Forest,Exotics,257513.118
+Southern Coastal Plain Mesic Slope Forest,OtherClearing,3188.586
+California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Agricultural,858817.434
+California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,NaturalVeg,3609077.754
+California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Developed,1031105.418
+California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,Exotics,2270828.01
+California Lower Montane Blue Oak-Foothill Pine Woodland and Savanna,OtherClearing,2323.23
+Southern Coastal Plain Dry Upland Hardwood Forest,Agricultural,755938.638
+Southern Coastal Plain Dry Upland Hardwood Forest,NaturalVeg,5509177.086
+Southern Coastal Plain Dry Upland Hardwood Forest,Developed,1135162.59
+Southern Coastal Plain Dry Upland Hardwood Forest,Exotics,257975.544
+Southern Coastal Plain Dry Upland Hardwood Forest,OtherClearing,1937.172
+Chihuahuan Loamy Plains Desert Grassland,Agricultural,418792.566
+Chihuahuan Loamy Plains Desert Grassland,NaturalVeg,4587108.3
+Chihuahuan Loamy Plains Desert Grassland,Developed,160395
+Chihuahuan Loamy Plains Desert Grassland,Exotics,1850195.286
+Chihuahuan Loamy Plains Desert Grassland,OtherClearing,66720.768
+Mediterranean California Mesic Mixed Conifer Forest and Woodland,Agricultural,25092.438
+Mediterranean California Mesic Mixed Conifer Forest and Woodland,NaturalVeg,6894930.612
+Mediterranean California Mesic Mixed Conifer Forest and Woodland,Developed,122404.584
+Mediterranean California Mesic Mixed Conifer Forest and Woodland,Exotics,35218.302
+Mediterranean California Mesic Mixed Conifer Forest and Woodland,OtherClearing,581.64
+Atlantic Coastal Plain Mesic Hardwood Forest,Agricultural,1879796.322
+Atlantic Coastal Plain Mesic Hardwood Forest,NaturalVeg,3228643.902
+Atlantic Coastal Plain Mesic Hardwood Forest,Developed,1807810.158
+Atlantic Coastal Plain Mesic Hardwood Forest,Exotics,114363.744
+Atlantic Coastal Plain Mesic Hardwood Forest,OtherClearing,2049.726
+East-Central Texas Plains Post Oak Savanna and Woodland,Agricultural,2966278.53
+East-Central Texas Plains Post Oak Savanna and Woodland,NaturalVeg,2384300.202
+East-Central Texas Plains Post Oak Savanna and Woodland,Developed,811077.222
+East-Central Texas Plains Post Oak Savanna and Woodland,Exotics,814599.918
+East-Central Texas Plains Post Oak Savanna and Woodland,OtherClearing,11860.794
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Agricultural,354051.816
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,NaturalVeg,6403659.264
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Developed,111271.506
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,Exotics,101167.398
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest,OtherClearing,92.352
+Chihuahuan Succulent Desert Scrub,Agricultural,127356.516
+Chihuahuan Succulent Desert Scrub,NaturalVeg,5740680.018
+Chihuahuan Succulent Desert Scrub,Developed,165106.062
+Chihuahuan Succulent Desert Scrub,Exotics,836146.128
+Chihuahuan Succulent Desert Scrub,OtherClearing,8857.134
+Central Interior and Appalachian Swamp Systems,Agricultural,2091021.552
+Central Interior and Appalachian Swamp Systems,NaturalVeg,3072986.826
+Central Interior and Appalachian Swamp Systems,Developed,1382357.814
+Central Interior and Appalachian Swamp Systems,Exotics,127009.752
+Central Interior and Appalachian Swamp Systems,OtherClearing,5478.516
+Rocky Mountain Aspen Forest and Woodland,Agricultural,87304.608
+Rocky Mountain Aspen Forest and Woodland,NaturalVeg,6393139.572
+Rocky Mountain Aspen Forest and Woodland,Developed,39938.688
+Rocky Mountain Aspen Forest and Woodland,Exotics,100710.3
+Rocky Mountain Aspen Forest and Woodland,OtherClearing,515.706
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Agricultural,19069.578
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,NaturalVeg,6424885.35
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Developed,14203.56
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,Exotics,26379.15
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland,OtherClearing,2249.526
+Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Agricultural,95573.22
+Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,NaturalVeg,5875092.582
+Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Developed,257376.588
+Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,Exotics,172194.078
+Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland,OtherClearing,1248.75
+Great Basin Pinyon-Juniper Woodland,Agricultural,6614.934
+Great Basin Pinyon-Juniper Woodland,NaturalVeg,5937918.36
+Great Basin Pinyon-Juniper Woodland,Developed,11100.222
+Great Basin Pinyon-Juniper Woodland,Exotics,176770.83
+Great Basin Pinyon-Juniper Woodland,OtherClearing,1288.044
+Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Agricultural,136753.998
+Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,NaturalVeg,5789909.628
+Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Developed,144281.796
+Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Exotics,44717.016
+Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,OtherClearing,1244.976
+Sonoran Granite Outcrop Desert Scrub,Agricultural,63768.168
+Sonoran Granite Outcrop Desert Scrub,NaturalVeg,5219028.414
+Sonoran Granite Outcrop Desert Scrub,Developed,403837.98
+Sonoran Granite Outcrop Desert Scrub,Exotics,116715.39
+Sonoran Granite Outcrop Desert Scrub,OtherClearing,21595.494
+Laurentian-Acadian Northern Pine(-Oak) Forest,Agricultural,946408.422
+Laurentian-Acadian Northern Pine(-Oak) Forest,NaturalVeg,3794311.002
+Laurentian-Acadian Northern Pine(-Oak) Forest,Developed,940392.888
+Laurentian-Acadian Northern Pine(-Oak) Forest,Exotics,101951.724
+Laurentian-Acadian Northern Pine(-Oak) Forest,OtherClearing,3395.712
+Inter-Mountain Basins Montane Riparian Systems,Agricultural,2295315.054
+Inter-Mountain Basins Montane Riparian Systems,NaturalVeg,2449640.13
+Inter-Mountain Basins Montane Riparian Systems,Developed,443189.256
+Inter-Mountain Basins Montane Riparian Systems,Exotics,555467.754
+Inter-Mountain Basins Montane Riparian Systems,OtherClearing,868.686
+Southern Appalachian Oak Forest,Agricultural,341890.434
+Southern Appalachian Oak Forest,NaturalVeg,4644350.556
+Southern Appalachian Oak Forest,Developed,688569.852
+Southern Appalachian Oak Forest,Exotics,52762.518
+Southern Appalachian Oak Forest,OtherClearing,2968.584
+Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,Agricultural,277937.562
+Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,NaturalVeg,4483598.58
+Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,Developed,137014.626
+Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,Exotics,823035.918
+Inter-Mountain Basins Big Sagebrush Shrubland-Semi-Desert,OtherClearing,6246.636
+North-Central Interior Dry Oak Forest and Woodland,Agricultural,2262486.804
+North-Central Interior Dry Oak Forest and Woodland,NaturalVeg,2086397.736
+North-Central Interior Dry Oak Forest and Woodland,Developed,1074319.716
+North-Central Interior Dry Oak Forest and Woodland,Exotics,180457.806
+North-Central Interior Dry Oak Forest and Woodland,OtherClearing,3854.364
+North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Agricultural,119768.112
+North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,NaturalVeg,4705709.802
+North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Developed,632674.026
+North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,Exotics,52601.346
+North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest,OtherClearing,726.606
+Northern Rocky Mountain Subalpine Woodland and Parkland,Agricultural,834.72
+Northern Rocky Mountain Subalpine Woodland and Parkland,NaturalVeg,5497255.686
+Northern Rocky Mountain Subalpine Woodland and Parkland,Developed,1930.29
+Northern Rocky Mountain Subalpine Woodland and Parkland,Exotics,617.16
+Northern Rocky Mountain Subalpine Woodland and Parkland,OtherClearing,569.43
+Central Florida Pine Flatwoods,Agricultural,973512.18
+Central Florida Pine Flatwoods,NaturalVeg,2611695.246
+Central Florida Pine Flatwoods,Developed,1513097.166
+Central Florida Pine Flatwoods,Exotics,252324.978
+Central Florida Pine Flatwoods,OtherClearing,3343.986
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Agricultural,7038.954
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,NaturalVeg,5187636.726
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Developed,30278.358
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,Exotics,26758.77
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,OtherClearing,562.104
+Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Agricultural,687452.304
+Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,NaturalVeg,4064205.948
+Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Developed,160975.752
+Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,Exotics,267528.648
+Northern Rocky Mountain Lower Montane-Foothill-Valley Grassland,OtherClearing,1597.734
+Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Agricultural,202106.802
+Gulf and Atlantic Coastal Plain Tidal Marsh Systems,NaturalVeg,4331348.982
+Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Developed,546899.886
+Gulf and Atlantic Coastal Plain Tidal Marsh Systems,Exotics,79061.082
+Gulf and Atlantic Coastal Plain Tidal Marsh Systems,OtherClearing,1916.748
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Agricultural,20154.492
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,NaturalVeg,4886323.674
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Developed,49817.91
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,Exotics,22967.454
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest,OtherClearing,866.91
+Sonora-Mojave Mixed Salt Desert Scrub,Agricultural,2783991.222
+Sonora-Mojave Mixed Salt Desert Scrub,NaturalVeg,667743.588
+Sonora-Mojave Mixed Salt Desert Scrub,Developed,620984.394
+Sonora-Mojave Mixed Salt Desert Scrub,Exotics,843588.9
+Sonora-Mojave Mixed Salt Desert Scrub,OtherClearing,60160.89
+Edwards Plateau Limestone Shrubland,Agricultural,12041.502
+Edwards Plateau Limestone Shrubland,NaturalVeg,3951221.934
+Edwards Plateau Limestone Shrubland,Developed,146239.392
+Edwards Plateau Limestone Shrubland,Exotics,826601.46
+Edwards Plateau Limestone Shrubland,OtherClearing,17272.488
+East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Agricultural,764370.42
+East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,NaturalVeg,3089812.428
+East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Developed,820477.146
+East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,Exotics,191504.748
+East Gulf Coastal Plain Northern Dry Upland Hardwood Forest,OtherClearing,1434.342
+Inter-Mountain Basins Semi-Desert Shrub-Steppe,Agricultural,110282.496
+Inter-Mountain Basins Semi-Desert Shrub-Steppe,NaturalVeg,4404580.122
+Inter-Mountain Basins Semi-Desert Shrub-Steppe,Developed,70050.768
+Inter-Mountain Basins Semi-Desert Shrub-Steppe,Exotics,119516.586
+Inter-Mountain Basins Semi-Desert Shrub-Steppe,OtherClearing,2516.592
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Agricultural,432484.416
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,NaturalVeg,3819432.078
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Developed,331354.314
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,Exotics,98228.118
+Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,OtherClearing,763.68
+Tamaulipan Savanna Grassland,Agricultural,1075289.856
+Tamaulipan Savanna Grassland,NaturalVeg,2549208.906
+Tamaulipan Savanna Grassland,Developed,452505.264
+Tamaulipan Savanna Grassland,Exotics,453805.74
+Tamaulipan Savanna Grassland,OtherClearing,20081.01
+Boreal White Spruce-Fir-Hardwood Forest-Inland,Agricultural,359322.984
+Boreal White Spruce-Fir-Hardwood Forest-Inland,NaturalVeg,3685643.778
+Boreal White Spruce-Fir-Hardwood Forest-Inland,Developed,273981.3
+Boreal White Spruce-Fir-Hardwood Forest-Inland,Exotics,94084.932
+Boreal White Spruce-Fir-Hardwood Forest-Inland,OtherClearing,2197.8
+Northern and Central California Dry-Mesic Chaparral,Agricultural,111310.134
+Northern and Central California Dry-Mesic Chaparral,NaturalVeg,2014184.466
+Northern and Central California Dry-Mesic Chaparral,Developed,371863.542
+Northern and Central California Dry-Mesic Chaparral,Exotics,1874840.838
+Northern and Central California Dry-Mesic Chaparral,OtherClearing,4692.192
+Inter-Mountain Basins Sparsely Vegetated Systems,Agricultural,181046.994
+Inter-Mountain Basins Sparsely Vegetated Systems,NaturalVeg,3702306.432
+Inter-Mountain Basins Sparsely Vegetated Systems,Developed,302522.286
+Inter-Mountain Basins Sparsely Vegetated Systems,Exotics,60100.062
+Inter-Mountain Basins Sparsely Vegetated Systems,OtherClearing,43059.564
+Mogollon Chaparral,Agricultural,5352.864
+Mogollon Chaparral,NaturalVeg,4062761.838
+Mogollon Chaparral,Developed,46118.724
+Mogollon Chaparral,Exotics,97453.782
+Mogollon Chaparral,OtherClearing,7655.67
+East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Agricultural,526435.26
+East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,NaturalVeg,2852101.044
+East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Developed,654406.494
+East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,Exotics,176998.38
+East Gulf Coastal Plain Interior Shortleaf Pine-Oak Forest,OtherClearing,855.366
+Northern Atlantic Coastal Plain Hardwood Forest,Agricultural,499274.67
+Northern Atlantic Coastal Plain Hardwood Forest,NaturalVeg,1359815.046
+Northern Atlantic Coastal Plain Hardwood Forest,Developed,2297647.83
+Northern Atlantic Coastal Plain Hardwood Forest,Exotics,42250.818
+Northern Atlantic Coastal Plain Hardwood Forest,OtherClearing,4774.332
+Eastern Great Plains Floodplain Systems,Agricultural,2538211.026
+Eastern Great Plains Floodplain Systems,NaturalVeg,1029378.036
+Eastern Great Plains Floodplain Systems,Developed,256158.252
+Eastern Great Plains Floodplain Systems,Exotics,238183.134
+Eastern Great Plains Floodplain Systems,OtherClearing,2553.666
+Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Agricultural,482780.07
+Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,NaturalVeg,3097207.248
+Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Developed,400929.336
+Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Exotics,72854.184
+Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,OtherClearing,1337.994
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Agricultural,738428.388
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,NaturalVeg,2281101.06
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Developed,953341.482
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Exotics,56702.574
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,OtherClearing,2245.308
+Southern Rocky Mountain Juniper Woodland and Savanna,Agricultural,11740.914
+Southern Rocky Mountain Juniper Woodland and Savanna,NaturalVeg,3822633.096
+Southern Rocky Mountain Juniper Woodland and Savanna,Developed,67886.49
+Southern Rocky Mountain Juniper Woodland and Savanna,Exotics,95314.59
+Southern Rocky Mountain Juniper Woodland and Savanna,OtherClearing,2503.716
+East Gulf Coastal Plain Near-Coast Pine Flatwoods,Agricultural,184357.68
+East Gulf Coastal Plain Near-Coast Pine Flatwoods,NaturalVeg,2926370.7
+East Gulf Coastal Plain Near-Coast Pine Flatwoods,Developed,706447.956
+East Gulf Coastal Plain Near-Coast Pine Flatwoods,Exotics,159776.952
+East Gulf Coastal Plain Near-Coast Pine Flatwoods,OtherClearing,1286.712
+California Central Valley Riparian Woodland and Shrubland,Agricultural,2823435.96
+California Central Valley Riparian Woodland and Shrubland,NaturalVeg,441349.986
+California Central Valley Riparian Woodland and Shrubland,Developed,527936.424
+California Central Valley Riparian Woodland and Shrubland,Exotics,95552.574
+California Central Valley Riparian Woodland and Shrubland,OtherClearing,4835.16
+Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Agricultural,14801.628
+Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,NaturalVeg,3792943.704
+Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Developed,43940.016
+Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,Exotics,23992.65
+Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland,OtherClearing,427.35
+West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Agricultural,288749.628
+West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,NaturalVeg,2968567.572
+West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Developed,432863.814
+West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Exotics,180640.512
+West Gulf Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,OtherClearing,2385.39
+Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Agricultural,419189.724
+Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,NaturalVeg,2127432.216
+Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Developed,1034318.424
+Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,Exotics,228916.188
+Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland,OtherClearing,7628.364
+Southern California Coastal Scrub,Agricultural,197252.55
+Southern California Coastal Scrub,NaturalVeg,1052593.464
+Southern California Coastal Scrub,Developed,2117071.698
+Southern California Coastal Scrub,Exotics,294886.818
+Southern California Coastal Scrub,OtherClearing,4130.31
+Northwestern Great Plains Shrubland,Agricultural,147392.46
+Northwestern Great Plains Shrubland,NaturalVeg,3424433.25
+Northwestern Great Plains Shrubland,Developed,19434.546
+Northwestern Great Plains Shrubland,Exotics,68113.818
+Northwestern Great Plains Shrubland,OtherClearing,1036.296
+Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,Agricultural,521271.984
+Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,NaturalVeg,2753011.122
+Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,Developed,305871.156
+Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,Exotics,72855.96
+Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,OtherClearing,901.764
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,Agricultural,393249.024
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,NaturalVeg,3137675.628
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,Developed,62531.184
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,Exotics,55292.43
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic,OtherClearing,77.478
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Agricultural,164759.52
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland,NaturalVeg,3189290.406
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Developed,94651.254
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland,Exotics,149611.572
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland,OtherClearing,14479.506
+Western Great Plains Depressional Wetland Systems,Agricultural,1557796.644
+Western Great Plains Depressional Wetland Systems,NaturalVeg,1734987.72
+Western Great Plains Depressional Wetland Systems,Developed,63083.52
+Western Great Plains Depressional Wetland Systems,Exotics,209496.516
+Western Great Plains Depressional Wetland Systems,OtherClearing,606.504
+Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Agricultural,134448.084
+Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,NaturalVeg,2390910.696
+Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Developed,882120.108
+Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,Exotics,113899.764
+Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods,OtherClearing,971.25
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,Agricultural,38672.4
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,NaturalVeg,3421733.286
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,Developed,28457.958
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,Exotics,30441.306
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Grand Fir,OtherClearing,298.812
+California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Agricultural,11241.414
+California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,NaturalVeg,3319761.582
+California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Developed,75797.904
+California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,Exotics,54633.756
+California Montane Jeffrey Pine(-Ponderosa Pine) Woodland,OtherClearing,333.666
+Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,Agricultural,229308.906
+Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,NaturalVeg,2931100.41
+Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,Developed,87345.012
+Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,Exotics,174100.392
+Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush,OtherClearing,1552.668
+Southern Rocky Mountain Ponderosa Pine Savanna,Agricultural,10278.822
+Southern Rocky Mountain Ponderosa Pine Savanna,NaturalVeg,3350031.06
+Southern Rocky Mountain Ponderosa Pine Savanna,Developed,34534.098
+Southern Rocky Mountain Ponderosa Pine Savanna,Exotics,18089.448
+Southern Rocky Mountain Ponderosa Pine Savanna,OtherClearing,591.63
+North-Central Oak Barrens,Agricultural,1349763.552
+North-Central Oak Barrens,NaturalVeg,892517.478
+North-Central Oak Barrens,Developed,997844.934
+North-Central Oak Barrens,Exotics,78056.754
+North-Central Oak Barrens,OtherClearing,2412.696
+Chihuahuan Mixed Desert and Thorn Scrub-Steppe,Agricultural,27372.6
+Chihuahuan Mixed Desert and Thorn Scrub-Steppe,NaturalVeg,3163773.282
+Chihuahuan Mixed Desert and Thorn Scrub-Steppe,Developed,58294.758
+Chihuahuan Mixed Desert and Thorn Scrub-Steppe,Exotics,60092.514
+Chihuahuan Mixed Desert and Thorn Scrub-Steppe,OtherClearing,1565.988
+Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Agricultural,270400.218
+Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,NaturalVeg,2808017.394
+Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Developed,122364.402
+Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Exotics,75434.49
+Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,OtherClearing,1682.982
+North-Central Interior Sand and Gravel Tallgrass Prairie,Agricultural,2163461.928
+North-Central Interior Sand and Gravel Tallgrass Prairie,NaturalVeg,455549.55
+North-Central Interior Sand and Gravel Tallgrass Prairie,Developed,387507.216
+North-Central Interior Sand and Gravel Tallgrass Prairie,Exotics,266086.092
+North-Central Interior Sand and Gravel Tallgrass Prairie,OtherClearing,4080.804
+Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,Agricultural,223795.758
+Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,NaturalVeg,2877123.774
+Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,Developed,56261.904
+Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,Exotics,90764.256
+Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush,OtherClearing,5621.706
+South Florida Everglades Sawgrass Marsh,Agricultural,579990.762
+South Florida Everglades Sawgrass Marsh,NaturalVeg,2182118.808
+South Florida Everglades Sawgrass Marsh,Developed,367134.72
+South Florida Everglades Sawgrass Marsh,Exotics,37631.22
+South Florida Everglades Sawgrass Marsh,OtherClearing,1897.878
+Western Great Plains Foothill and Piedmont Grassland,Agricultural,86231.238
+Western Great Plains Foothill and Piedmont Grassland,NaturalVeg,2786354.412
+Western Great Plains Foothill and Piedmont Grassland,Developed,184592.778
+Western Great Plains Foothill and Piedmont Grassland,Exotics,29704.266
+Western Great Plains Foothill and Piedmont Grassland,OtherClearing,1154.622
+Florida Longleaf Pine Sandhill,Agricultural,581259.936
+Florida Longleaf Pine Sandhill,NaturalVeg,1259536.536
+Florida Longleaf Pine Sandhill,Developed,1033573.392
+Florida Longleaf Pine Sandhill,Exotics,200800.554
+Florida Longleaf Pine Sandhill,OtherClearing,3340.878
+Inter-Mountain Basins Mat Saltbush Shrubland,Agricultural,182839.422
+Inter-Mountain Basins Mat Saltbush Shrubland,NaturalVeg,2668994.334
+Inter-Mountain Basins Mat Saltbush Shrubland,Developed,58245.03
+Inter-Mountain Basins Mat Saltbush Shrubland,Exotics,164531.526
+Inter-Mountain Basins Mat Saltbush Shrubland,OtherClearing,3752.91
+Rocky Mountain Subalpine/Upper Montane Riparian Systems,Agricultural,369079.884
+Rocky Mountain Subalpine/Upper Montane Riparian Systems,NaturalVeg,2562810.624
+Rocky Mountain Subalpine/Upper Montane Riparian Systems,Developed,65861.406
+Rocky Mountain Subalpine/Upper Montane Riparian Systems,Exotics,52997.172
+Rocky Mountain Subalpine/Upper Montane Riparian Systems,OtherClearing,200.688
+Lower Mississippi River Flatwoods,Agricultural,2178332.376
+Lower Mississippi River Flatwoods,NaturalVeg,537706.866
+Lower Mississippi River Flatwoods,Developed,216829.62
+Lower Mississippi River Flatwoods,Exotics,24629.124
+Lower Mississippi River Flatwoods,OtherClearing,73.26
+Western Great Plains Tallgrass Prairie,Agricultural,1513962.3
+Western Great Plains Tallgrass Prairie,NaturalVeg,1011055.932
+Western Great Plains Tallgrass Prairie,Developed,177381.774
+Western Great Plains Tallgrass Prairie,Exotics,231893.652
+Western Great Plains Tallgrass Prairie,OtherClearing,282.162
+Southern and Central Appalachian Cove Forest,Agricultural,206952.84
+Southern and Central Appalachian Cove Forest,NaturalVeg,2307234.678
+Southern and Central Appalachian Cove Forest,Developed,291363.012
+Southern and Central Appalachian Cove Forest,Exotics,35886.966
+Southern and Central Appalachian Cove Forest,OtherClearing,1900.098
+North American Warm Desert Riparian Systems,Agricultural,470191.56
+North American Warm Desert Riparian Systems,NaturalVeg,1929602.466
+North American Warm Desert Riparian Systems,Developed,201429.036
+North American Warm Desert Riparian Systems,Exotics,221637.252
+North American Warm Desert Riparian Systems,OtherClearing,2480.628
+Madrean Pinyon-Juniper Woodland,Agricultural,110.334
+Madrean Pinyon-Juniper Woodland,NaturalVeg,2807557.41
+Madrean Pinyon-Juniper Woodland,Developed,3413.472
+Madrean Pinyon-Juniper Woodland,Exotics,10712.388
+Madrean Pinyon-Juniper Woodland,OtherClearing,2652.234
+Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Agricultural,449521.584
+Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,NaturalVeg,1720407.426
+Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Developed,563262.84
+Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,Exotics,87065.736
+Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods,OtherClearing,466.2
+Laurentian Pine-Oak Barrens-Jack Pine,Agricultural,268110.288
+Laurentian Pine-Oak Barrens-Jack Pine,NaturalVeg,2162945.556
+Laurentian Pine-Oak Barrens-Jack Pine,Developed,275814.576
+Laurentian Pine-Oak Barrens-Jack Pine,Exotics,112770.894
+Laurentian Pine-Oak Barrens-Jack Pine,OtherClearing,977.244
+Central and Southern California Mixed Evergreen Woodland,Agricultural,95312.814
+Central and Southern California Mixed Evergreen Woodland,NaturalVeg,1887449.106
+Central and Southern California Mixed Evergreen Woodland,Developed,171233.04
+Central and Southern California Mixed Evergreen Woodland,Exotics,664790.322
+Central and Southern California Mixed Evergreen Woodland,OtherClearing,593.85
+North Pacific Mesic Western Hemlock-Silver Fir Forest,Agricultural,174.048
+North Pacific Mesic Western Hemlock-Silver Fir Forest,NaturalVeg,2651586.426
+North Pacific Mesic Western Hemlock-Silver Fir Forest,Developed,58479.018
+North Pacific Mesic Western Hemlock-Silver Fir Forest,Exotics,28523.448
+North Pacific Mesic Western Hemlock-Silver Fir Forest,OtherClearing,35.742
+Acadian-Appalachian Montane Spruce-Fir Forest,Agricultural,5346.426
+Acadian-Appalachian Montane Spruce-Fir Forest,NaturalVeg,2638358.778
+Acadian-Appalachian Montane Spruce-Fir Forest,Developed,59533.74
+Acadian-Appalachian Montane Spruce-Fir Forest,Exotics,22247.286
+Acadian-Appalachian Montane Spruce-Fir Forest,OtherClearing,284.16
+California Coastal Redwood Forest,Agricultural,43968.654
+California Coastal Redwood Forest,NaturalVeg,2342740.248
+California Coastal Redwood Forest,Developed,207364.65
+California Coastal Redwood Forest,Exotics,89758.818
+California Coastal Redwood Forest,OtherClearing,428.238
+Southern Rocky Mountain Pinyon-Juniper Woodland,Agricultural,2243.532
+Southern Rocky Mountain Pinyon-Juniper Woodland,NaturalVeg,2599432.854
+Southern Rocky Mountain Pinyon-Juniper Woodland,Developed,29494.254
+Southern Rocky Mountain Pinyon-Juniper Woodland,Exotics,34886.856
+Southern Rocky Mountain Pinyon-Juniper Woodland,OtherClearing,1342.212
+Chihuahuan Sandy Plains Semi-Desert Grassland,Agricultural,15522.24
+Chihuahuan Sandy Plains Semi-Desert Grassland,NaturalVeg,2329951.938
+Chihuahuan Sandy Plains Semi-Desert Grassland,Developed,131142.06
+Chihuahuan Sandy Plains Semi-Desert Grassland,Exotics,182918.01
+Chihuahuan Sandy Plains Semi-Desert Grassland,OtherClearing,1136.418
+Southern Coastal Plain Seepage Swamp and Baygall,Agricultural,57316.404
+Southern Coastal Plain Seepage Swamp and Baygall,NaturalVeg,2264989.854
+Southern Coastal Plain Seepage Swamp and Baygall,Developed,277431.624
+Southern Coastal Plain Seepage Swamp and Baygall,Exotics,55760.85
+Southern Coastal Plain Seepage Swamp and Baygall,OtherClearing,758.352
+Laurentian-Acadian Floodplain Systems,Agricultural,281960.868
+Laurentian-Acadian Floodplain Systems,NaturalVeg,2068681.692
+Laurentian-Acadian Floodplain Systems,Developed,233775.546
+Laurentian-Acadian Floodplain Systems,Exotics,54605.784
+Laurentian-Acadian Floodplain Systems,OtherClearing,467.31
+Madrean Encinal,Agricultural,636.696
+Madrean Encinal,NaturalVeg,2562870.786
+Madrean Encinal,Developed,29868.768
+Madrean Encinal,Exotics,22492.374
+Madrean Encinal,OtherClearing,3447.882
+West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Agricultural,112993.338
+West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,NaturalVeg,2047315.08
+West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Developed,285137.688
+West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,Exotics,122023.854
+West Gulf Coastal Plain Upland Longleaf Pine Forest and Woodland,OtherClearing,2161.17
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Agricultural,68472.57
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,NaturalVeg,2403108.042
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Developed,46786.278
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,Exotics,20040.606
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna,OtherClearing,1377.51
+California Montane Riparian Systems,Agricultural,138551.976
+California Montane Riparian Systems,NaturalVeg,1998100.344
+California Montane Riparian Systems,Developed,321430.47
+California Montane Riparian Systems,Exotics,67017.36
+California Montane Riparian Systems,OtherClearing,191.586
+West Gulf Coastal Plain Pine-Hardwood Flatwoods,Agricultural,203497.632
+West Gulf Coastal Plain Pine-Hardwood Flatwoods,NaturalVeg,1664969.142
+West Gulf Coastal Plain Pine-Hardwood Flatwoods,Developed,490308.09
+West Gulf Coastal Plain Pine-Hardwood Flatwoods,Exotics,111072.816
+West Gulf Coastal Plain Pine-Hardwood Flatwoods,OtherClearing,2815.404
+North Pacific Hypermaritime Sitka Spruce Forest,Agricultural,32536.542
+North Pacific Hypermaritime Sitka Spruce Forest,NaturalVeg,2160441.618
+North Pacific Hypermaritime Sitka Spruce Forest,Developed,217669.446
+North Pacific Hypermaritime Sitka Spruce Forest,Exotics,21127.296
+North Pacific Hypermaritime Sitka Spruce Forest,OtherClearing,226.218
+Southern California Dry-Mesic Chaparral,Agricultural,19135.512
+Southern California Dry-Mesic Chaparral,NaturalVeg,1851714.876
+Southern California Dry-Mesic Chaparral,Developed,370605.69
+Southern California Dry-Mesic Chaparral,Exotics,138229.632
+Southern California Dry-Mesic Chaparral,OtherClearing,509.49
+Sonoran Mid-Elevation Desert Scrub,Agricultural,3405.702
+Sonoran Mid-Elevation Desert Scrub,NaturalVeg,2221428.126
+Sonoran Mid-Elevation Desert Scrub,Developed,51579.258
+Sonoran Mid-Elevation Desert Scrub,Exotics,88334.022
+Sonoran Mid-Elevation Desert Scrub,OtherClearing,6327.222
+Edwards Plateau Dry-Mesic Slope Forest and Woodland,Agricultural,5215.224
+Edwards Plateau Dry-Mesic Slope Forest and Woodland,NaturalVeg,1979615.07
+Edwards Plateau Dry-Mesic Slope Forest and Woodland,Developed,162552.396
+Edwards Plateau Dry-Mesic Slope Forest and Woodland,Exotics,195324.258
+Edwards Plateau Dry-Mesic Slope Forest and Woodland,OtherClearing,1887
+Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Agricultural,3308.466
+Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,NaturalVeg,2241101.544
+Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Developed,20148.72
+Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,Exotics,7847.256
+Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland,OtherClearing,112.554
+Chihuahuan Creosotebush Desert Scrub,Agricultural,31932.036
+Chihuahuan Creosotebush Desert Scrub,NaturalVeg,1940545.734
+Chihuahuan Creosotebush Desert Scrub,Developed,26510.13
+Chihuahuan Creosotebush Desert Scrub,Exotics,265859.208
+Chihuahuan Creosotebush Desert Scrub,OtherClearing,4812.072
+Colorado Plateau Mixed Low Sagebrush Shrubland,Agricultural,30997.86
+Colorado Plateau Mixed Low Sagebrush Shrubland,NaturalVeg,2138100.87
+Colorado Plateau Mixed Low Sagebrush Shrubland,Developed,23690.286
+Colorado Plateau Mixed Low Sagebrush Shrubland,Exotics,68663.49
+Colorado Plateau Mixed Low Sagebrush Shrubland,OtherClearing,2414.028
+Western Great Plains Wooded Draw and Ravine,Agricultural,446611.608
+Western Great Plains Wooded Draw and Ravine,NaturalVeg,1603828.788
+Western Great Plains Wooded Draw and Ravine,Developed,79650.936
+Western Great Plains Wooded Draw and Ravine,Exotics,86045.424
+Western Great Plains Wooded Draw and Ravine,OtherClearing,1439.892
+Tamaulipan Riparian Systems,Agricultural,571847.358
+Tamaulipan Riparian Systems,NaturalVeg,1239070.8
+Tamaulipan Riparian Systems,Developed,191064.966
+Tamaulipan Riparian Systems,Exotics,179393.982
+Tamaulipan Riparian Systems,OtherClearing,3785.544
+Mediterranean California Mixed Evergreen Forest-Interior,Agricultural,8143.848
+Mediterranean California Mixed Evergreen Forest-Interior,NaturalVeg,2050450.386
+Mediterranean California Mixed Evergreen Forest-Interior,Developed,71833.65
+Mediterranean California Mixed Evergreen Forest-Interior,Exotics,47799.708
+Mediterranean California Mixed Evergreen Forest-Interior,OtherClearing,69.486
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,Agricultural,12183.804
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,NaturalVeg,2072402.19
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,Developed,19081.122
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,Exotics,5013.426
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Larch,OtherClearing,15.318
+Rocky Mountain Lodgepole Pine Forest,Agricultural,14379.606
+Rocky Mountain Lodgepole Pine Forest,NaturalVeg,2035145.04
+Rocky Mountain Lodgepole Pine Forest,Developed,36905.28
+Rocky Mountain Lodgepole Pine Forest,Exotics,9050.94
+Rocky Mountain Lodgepole Pine Forest,OtherClearing,222.444
+Laurentian-Acadian Swamp Systems,Agricultural,117747.468
+Laurentian-Acadian Swamp Systems,NaturalVeg,1757251.212
+Laurentian-Acadian Swamp Systems,Developed,170541.066
+Laurentian-Acadian Swamp Systems,Exotics,18870.666
+Laurentian-Acadian Swamp Systems,OtherClearing,335.22
+Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Agricultural,364394.13
+Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,NaturalVeg,1266554.844
+Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Developed,354687.846
+Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,Exotics,71250.456
+Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest,OtherClearing,2455.32
+Southern Colorado Plateau Sand Shrubland,Agricultural,28030.164
+Southern Colorado Plateau Sand Shrubland,NaturalVeg,1950400.536
+Southern Colorado Plateau Sand Shrubland,Developed,19949.586
+Southern Colorado Plateau Sand Shrubland,Exotics,48019.488
+Southern Colorado Plateau Sand Shrubland,OtherClearing,963.48
+North American Warm Desert Riparian Systems-Stringers,Agricultural,17520.24
+North American Warm Desert Riparian Systems-Stringers,NaturalVeg,1853791.908
+North American Warm Desert Riparian Systems-Stringers,Developed,87712.644
+North American Warm Desert Riparian Systems-Stringers,Exotics,44844
+North American Warm Desert Riparian Systems-Stringers,OtherClearing,1989.786
+North Pacific Lowland Riparian Forest and Shrubland,Agricultural,462814.278
+North Pacific Lowland Riparian Forest and Shrubland,NaturalVeg,1119195.24
+North Pacific Lowland Riparian Forest and Shrubland,Developed,381753.42
+North Pacific Lowland Riparian Forest and Shrubland,Exotics,7052.274
+North Pacific Lowland Riparian Forest and Shrubland,OtherClearing,152.514
+East Gulf Coastal Plain Northern Loess Bluff Forest,Agricultural,554849.706
+East Gulf Coastal Plain Northern Loess Bluff Forest,NaturalVeg,871144.206
+East Gulf Coastal Plain Northern Loess Bluff Forest,Developed,455711.832
+East Gulf Coastal Plain Northern Loess Bluff Forest,Exotics,84712.536
+East Gulf Coastal Plain Northern Loess Bluff Forest,OtherClearing,760.128
+Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Agricultural,130844.136
+Laurentian-Acadian Shrub-Herbaceous Wetland Systems,NaturalVeg,1608278.778
+Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Developed,148162.8
+Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Exotics,29159.256
+Laurentian-Acadian Shrub-Herbaceous Wetland Systems,OtherClearing,405.372
+West Gulf Coastal Plain Mesic Hardwood Forest,Agricultural,162110.838
+West Gulf Coastal Plain Mesic Hardwood Forest,NaturalVeg,1527508.74
+West Gulf Coastal Plain Mesic Hardwood Forest,Developed,156591.252
+West Gulf Coastal Plain Mesic Hardwood Forest,Exotics,61919.574
+West Gulf Coastal Plain Mesic Hardwood Forest,OtherClearing,1606.17
+Sonora-Mojave Semi-Desert Chaparral,Agricultural,101875.578
+Sonora-Mojave Semi-Desert Chaparral,NaturalVeg,969409.62
+Sonora-Mojave Semi-Desert Chaparral,Developed,102196.368
+Sonora-Mojave Semi-Desert Chaparral,Exotics,731868.51
+Sonora-Mojave Semi-Desert Chaparral,OtherClearing,1914.306
+Columbia Plateau Western Juniper Woodland and Savanna,Agricultural,69424.284
+Columbia Plateau Western Juniper Woodland and Savanna,NaturalVeg,1628821.992
+Columbia Plateau Western Juniper Woodland and Savanna,Developed,98617.284
+Columbia Plateau Western Juniper Woodland and Savanna,Exotics,102134.43
+Columbia Plateau Western Juniper Woodland and Savanna,OtherClearing,627.15
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,Agricultural,12283.704
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,NaturalVeg,1839051.552
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,Developed,10793.64
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,Exotics,33077.778
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Savanna,OtherClearing,553.224
+Sonoran Paloverde-Mixed Cacti Desert Scrub,Agricultural,116197.242
+Sonoran Paloverde-Mixed Cacti Desert Scrub,NaturalVeg,1541245.656
+Sonoran Paloverde-Mixed Cacti Desert Scrub,Developed,133390.254
+Sonoran Paloverde-Mixed Cacti Desert Scrub,Exotics,73629.852
+Sonoran Paloverde-Mixed Cacti Desert Scrub,OtherClearing,7293.588
+Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,Agricultural,34913.052
+Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,NaturalVeg,1597116.396
+Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,Developed,137810.052
+Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,Exotics,89366.1
+Chihuahuan Mixed Desert and Thorn Scrub-Shrubland,OtherClearing,1905.648
+Western Great Plains Dry Bur Oak Forest and Woodland,Agricultural,368552.634
+Western Great Plains Dry Bur Oak Forest and Woodland,NaturalVeg,1162874.406
+Western Great Plains Dry Bur Oak Forest and Woodland,Developed,47965.098
+Western Great Plains Dry Bur Oak Forest and Woodland,Exotics,258026.604
+Western Great Plains Dry Bur Oak Forest and Woodland,OtherClearing,11.766
+Chihuahuan Mixed Desert and Thorn Scrub,Agricultural,4078.806
+Chihuahuan Mixed Desert and Thorn Scrub,NaturalVeg,1670812.848
+Chihuahuan Mixed Desert and Thorn Scrub,Developed,6474.852
+Chihuahuan Mixed Desert and Thorn Scrub,Exotics,140609.25
+Chihuahuan Mixed Desert and Thorn Scrub,OtherClearing,4150.956
+Colorado Plateau Blackbrush-Mormon-tea Shrubland,Agricultural,2888.886
+Colorado Plateau Blackbrush-Mormon-tea Shrubland,NaturalVeg,1777432.122
+Colorado Plateau Blackbrush-Mormon-tea Shrubland,Developed,11808.846
+Colorado Plateau Blackbrush-Mormon-tea Shrubland,Exotics,29488.704
+Colorado Plateau Blackbrush-Mormon-tea Shrubland,OtherClearing,268.176
+Central and Southern Appalachian Montane Oak Forest,Agricultural,62408.862
+Central and Southern Appalachian Montane Oak Forest,NaturalVeg,1639538.82
+Central and Southern Appalachian Montane Oak Forest,Developed,98665.236
+Central and Southern Appalachian Montane Oak Forest,Exotics,16471.29
+Central and Southern Appalachian Montane Oak Forest,OtherClearing,404.04
+Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Agricultural,2535.018
+Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,NaturalVeg,1766975.034
+Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Developed,5453.874
+Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,Exotics,18905.742
+Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland,OtherClearing,1407.48
+North-Central Interior Wet Flatwoods,Agricultural,690706.824
+North-Central Interior Wet Flatwoods,NaturalVeg,569219.988
+North-Central Interior Wet Flatwoods,Developed,446313.906
+North-Central Interior Wet Flatwoods,Exotics,49399.44
+North-Central Interior Wet Flatwoods,OtherClearing,3200.352
+Inter-Mountain Basins Big Sagebrush Shrubland,Agricultural,252125.178
+Inter-Mountain Basins Big Sagebrush Shrubland,NaturalVeg,1262077.326
+Inter-Mountain Basins Big Sagebrush Shrubland,Developed,76539.606
+Inter-Mountain Basins Big Sagebrush Shrubland,Exotics,130797.516
+Inter-Mountain Basins Big Sagebrush Shrubland,OtherClearing,3353.532
+Central Interior and Appalachian Floodplain Systems-Large Floodplains,Agricultural,689515.794
+Central Interior and Appalachian Floodplain Systems-Large Floodplains,NaturalVeg,835060.77
+Central Interior and Appalachian Floodplain Systems-Large Floodplains,Developed,123483.726
+Central Interior and Appalachian Floodplain Systems-Large Floodplains,Exotics,50429.964
+Central Interior and Appalachian Floodplain Systems-Large Floodplains,OtherClearing,165.834
+Tamaulipan Calcareous Thornscrub,Agricultural,129300.792
+Tamaulipan Calcareous Thornscrub,NaturalVeg,1353050.928
+Tamaulipan Calcareous Thornscrub,Developed,87794.562
+Tamaulipan Calcareous Thornscrub,Exotics,102756.918
+Tamaulipan Calcareous Thornscrub,OtherClearing,13023.408
+Rocky Mountain Lower Montane-Foothill Shrubland,Agricultural,131077.68
+Rocky Mountain Lower Montane-Foothill Shrubland,NaturalVeg,1331776.668
+Rocky Mountain Lower Montane-Foothill Shrubland,Developed,122804.406
+Rocky Mountain Lower Montane-Foothill Shrubland,Exotics,61412.082
+Rocky Mountain Lower Montane-Foothill Shrubland,OtherClearing,1053.612
+East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Agricultural,13488.498
+East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,NaturalVeg,1562254.848
+East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Developed,54691.92
+East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,Exotics,16709.94
+East Cascades Mesic Montane Mixed-Conifer Forest and Woodland,OtherClearing,103.008
+Madrean Lower Montane Pine-Oak Forest and Woodland,Agricultural,64.158
+Madrean Lower Montane Pine-Oak Forest and Woodland,NaturalVeg,1595303.988
+Madrean Lower Montane Pine-Oak Forest and Woodland,Developed,17639.898
+Madrean Lower Montane Pine-Oak Forest and Woodland,Exotics,20785.86
+Madrean Lower Montane Pine-Oak Forest and Woodland,OtherClearing,416.694
+North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Agricultural,97.902
+North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,NaturalVeg,1590532.986
+North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Developed,23317.326
+North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,Exotics,9431.67
+North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest,OtherClearing,69.93
+Laurentian Pine-Oak Barrens,Agricultural,132677.634
+Laurentian Pine-Oak Barrens,NaturalVeg,1188269.43
+Laurentian Pine-Oak Barrens,Developed,218174.718
+Laurentian Pine-Oak Barrens,Exotics,49736.658
+Laurentian Pine-Oak Barrens,OtherClearing,749.472
+Ozark-Ouachita Mesic Hardwood Forest,Agricultural,104258.748
+Ozark-Ouachita Mesic Hardwood Forest,NaturalVeg,1354293.462
+Ozark-Ouachita Mesic Hardwood Forest,Developed,91328.802
+Ozark-Ouachita Mesic Hardwood Forest,Exotics,28540.542
+Ozark-Ouachita Mesic Hardwood Forest,OtherClearing,178.044
+Paleozoic Plateau Bluff and Talus,Agricultural,531122.568
+Paleozoic Plateau Bluff and Talus,NaturalVeg,778152.846
+Paleozoic Plateau Bluff and Talus,Developed,84854.616
+Paleozoic Plateau Bluff and Talus,Exotics,100117.56
+Paleozoic Plateau Bluff and Talus,OtherClearing,721.278
+South Florida Pine Flatwoods,Agricultural,379215.96
+South Florida Pine Flatwoods,NaturalVeg,545423.808
+South Florida Pine Flatwoods,Developed,471628.788
+South Florida Pine Flatwoods,Exotics,82273.2
+South Florida Pine Flatwoods,OtherClearing,546.342
+North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Agricultural,39155.916
+North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,NaturalVeg,1212974.922
+North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Developed,194724.858
+North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,Exotics,9531.126
+North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest,OtherClearing,261.072
+Southern Appalachian Low-Elevation Pine Forest,Agricultural,154800.6
+Southern Appalachian Low-Elevation Pine Forest,NaturalVeg,1000788.21
+Southern Appalachian Low-Elevation Pine Forest,Developed,235800.63
+Southern Appalachian Low-Elevation Pine Forest,Exotics,17431.662
+Southern Appalachian Low-Elevation Pine Forest,OtherClearing,498.168
+California Central Valley Mixed Oak Savanna,Agricultural,669268.062
+California Central Valley Mixed Oak Savanna,NaturalVeg,194246.226
+California Central Valley Mixed Oak Savanna,Developed,318554.238
+California Central Valley Mixed Oak Savanna,Exotics,211409.268
+California Central Valley Mixed Oak Savanna,OtherClearing,333.666
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,Agricultural,3358.416
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,NaturalVeg,1350450.642
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,Developed,6933.948
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,Exotics,31936.698
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna-Low Elevation Woodland,OtherClearing,405.372
+Rocky Mountain Poor-Site Lodgepole Pine Forest,Agricultural,8885.55
+Rocky Mountain Poor-Site Lodgepole Pine Forest,NaturalVeg,1341639.018
+Rocky Mountain Poor-Site Lodgepole Pine Forest,Developed,30984.984
+Rocky Mountain Poor-Site Lodgepole Pine Forest,Exotics,5878.782
+Rocky Mountain Poor-Site Lodgepole Pine Forest,OtherClearing,61.494
+California Central Valley and Southern Coastal Grassland,Agricultural,332084.25
+California Central Valley and Southern Coastal Grassland,NaturalVeg,157869.528
+California Central Valley and Southern Coastal Grassland,Developed,561230.652
+California Central Valley and Southern Coastal Grassland,Exotics,333203.352
+California Central Valley and Southern Coastal Grassland,OtherClearing,805.638
+Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Agricultural,85794.12
+Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,NaturalVeg,1077197.946
+Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Developed,106056.06
+Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,Exotics,94154.418
+Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland,OtherClearing,413.586
+Central Interior Highlands Calcareous Glade and Barrens,Agricultural,449763.342
+Central Interior Highlands Calcareous Glade and Barrens,NaturalVeg,640205.598
+Central Interior Highlands Calcareous Glade and Barrens,Developed,211960.272
+Central Interior Highlands Calcareous Glade and Barrens,Exotics,33365.49
+Central Interior Highlands Calcareous Glade and Barrens,OtherClearing,874.014
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,Agricultural,55.278
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,NaturalVeg,1317017.22
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,Developed,6501.936
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,Exotics,7567.536
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-High Elevation,OtherClearing,57.942
+Boreal White Spruce-Fir-Hardwood Forest-Coastal,Agricultural,150516.222
+Boreal White Spruce-Fir-Hardwood Forest-Coastal,NaturalVeg,958980.282
+Boreal White Spruce-Fir-Hardwood Forest-Coastal,Developed,123892.206
+Boreal White Spruce-Fir-Hardwood Forest-Coastal,Exotics,48859.314
+Boreal White Spruce-Fir-Hardwood Forest-Coastal,OtherClearing,20514.798
+Mediterranean California Red Fir Forest-Southern Sierra,Agricultural,0.666
+Mediterranean California Red Fir Forest-Southern Sierra,NaturalVeg,1290620.532
+Mediterranean California Red Fir Forest-Southern Sierra,Developed,6828.942
+Mediterranean California Red Fir Forest-Southern Sierra,Exotics,109.002
+Atlantic Coastal Plain Peatland Pocosin and Canebrake,Agricultural,97655.58
+Atlantic Coastal Plain Peatland Pocosin and Canebrake,NaturalVeg,1086802.554
+Atlantic Coastal Plain Peatland Pocosin and Canebrake,Developed,76769.154
+Atlantic Coastal Plain Peatland Pocosin and Canebrake,Exotics,20856.012
+Atlantic Coastal Plain Peatland Pocosin and Canebrake,OtherClearing,506.16
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Agricultural,269783.28
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,NaturalVeg,711025.374
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Developed,59836.104
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,Exotics,225857.694
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland,OtherClearing,878.676
+Southern Coastal Plain Nonriverine Cypress Dome,Agricultural,42975.648
+Southern Coastal Plain Nonriverine Cypress Dome,NaturalVeg,1079500.752
+Southern Coastal Plain Nonriverine Cypress Dome,Developed,118131.528
+Southern Coastal Plain Nonriverine Cypress Dome,Exotics,23615.694
+Southern Coastal Plain Nonriverine Cypress Dome,OtherClearing,299.256
+Western Great Plains Mesquite Woodland and Shrubland,Agricultural,93820.752
+Western Great Plains Mesquite Woodland and Shrubland,NaturalVeg,901081.794
+Western Great Plains Mesquite Woodland and Shrubland,Developed,30640.884
+Western Great Plains Mesquite Woodland and Shrubland,Exotics,226118.1
+Western Great Plains Mesquite Woodland and Shrubland,OtherClearing,2069.262
+Chihuahuan Gypsophilous Grassland and Steppe,Agricultural,71358.792
+Chihuahuan Gypsophilous Grassland and Steppe,NaturalVeg,863594.652
+Chihuahuan Gypsophilous Grassland and Steppe,Developed,53669.166
+Chihuahuan Gypsophilous Grassland and Steppe,Exotics,251113.302
+Chihuahuan Gypsophilous Grassland and Steppe,OtherClearing,5912.082
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,Agricultural,2453.544
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,NaturalVeg,1223037.072
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,Developed,6521.694
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,Exotics,10047.942
+Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric,OtherClearing,66.378
+Northern Atlantic Coastal Plain Pitch Pine Barrens,Agricultural,67942.878
+Northern Atlantic Coastal Plain Pitch Pine Barrens,NaturalVeg,687761.772
+Northern Atlantic Coastal Plain Pitch Pine Barrens,Developed,444626.04
+Northern Atlantic Coastal Plain Pitch Pine Barrens,Exotics,18097.44
+Northern Atlantic Coastal Plain Pitch Pine Barrens,OtherClearing,3123.762
+Central and South Texas Coastal Fringe Forest and Woodland,Agricultural,100864.368
+Central and South Texas Coastal Fringe Forest and Woodland,NaturalVeg,924271.914
+Central and South Texas Coastal Fringe Forest and Woodland,Developed,59700.24
+Central and South Texas Coastal Fringe Forest and Woodland,Exotics,116247.414
+Central and South Texas Coastal Fringe Forest and Woodland,OtherClearing,916.638
+Columbia Plateau Scabland Shrubland,Agricultural,100891.008
+Columbia Plateau Scabland Shrubland,NaturalVeg,965940.648
+Columbia Plateau Scabland Shrubland,Developed,56411.31
+Columbia Plateau Scabland Shrubland,Exotics,69511.974
+Columbia Plateau Scabland Shrubland,OtherClearing,111.222
+Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Agricultural,279489.786
+Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,NaturalVeg,719196.084
+Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Developed,113207.568
+Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Exotics,63106.83
+Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,OtherClearing,4649.568
+Willamette Valley Upland Prairie and Savanna,Agricultural,762505.62
+Willamette Valley Upland Prairie and Savanna,NaturalVeg,132940.26
+Willamette Valley Upland Prairie and Savanna,Developed,252774.306
+Willamette Valley Upland Prairie and Savanna,Exotics,31132.614
+Willamette Valley Upland Prairie and Savanna,OtherClearing,114.33
+Southern Rocky Mountain Montane-Subalpine Grassland,Agricultural,9627.918
+Southern Rocky Mountain Montane-Subalpine Grassland,NaturalVeg,1125893.868
+Southern Rocky Mountain Montane-Subalpine Grassland,Developed,16100.772
+Southern Rocky Mountain Montane-Subalpine Grassland,Exotics,23332.2
+Southern Rocky Mountain Montane-Subalpine Grassland,OtherClearing,1223.664
+Southern Coastal Plain Blackland Prairie and Woodland,Agricultural,286137.798
+Southern Coastal Plain Blackland Prairie and Woodland,NaturalVeg,638553.252
+Southern Coastal Plain Blackland Prairie and Woodland,Developed,187134.234
+Southern Coastal Plain Blackland Prairie and Woodland,Exotics,44848.218
+Southern Coastal Plain Blackland Prairie and Woodland,OtherClearing,444.444
+Mediterranean California Mixed Oak Woodland,Agricultural,18747.9
+Mediterranean California Mixed Oak Woodland,NaturalVeg,996900.99
+Mediterranean California Mixed Oak Woodland,Developed,47260.692
+Mediterranean California Mixed Oak Woodland,Exotics,87961.506
+Mediterranean California Mixed Oak Woodland,OtherClearing,248.418
+North Pacific Oak Woodland,Agricultural,388433.178
+North Pacific Oak Woodland,NaturalVeg,523813.218
+North Pacific Oak Woodland,Developed,191234.574
+North Pacific Oak Woodland,Exotics,44102.076
+North Pacific Oak Woodland,OtherClearing,448.884
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,Agricultural,58369.572
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,NaturalVeg,815479.26
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,Developed,15095.334
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,Exotics,212850.492
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Tobosa Grassland,OtherClearing,1625.04
+Apacherian-Chihuahuan Mesquite Upland Scrub,Agricultural,16921.284
+Apacherian-Chihuahuan Mesquite Upland Scrub,NaturalVeg,961136.124
+Apacherian-Chihuahuan Mesquite Upland Scrub,Developed,23702.718
+Apacherian-Chihuahuan Mesquite Upland Scrub,Exotics,95680.446
+Apacherian-Chihuahuan Mesquite Upland Scrub,OtherClearing,999
+Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Agricultural,390510.432
+Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,NaturalVeg,603695.922
+Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Developed,34131.168
+Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,Exotics,64290.978
+Northern Rocky Mountain Montane-Foothill Deciduous Shrubland,OtherClearing,555.888
+Mediterranean California Mixed Evergreen Forest-Coastal,Agricultural,8778.324
+Mediterranean California Mixed Evergreen Forest-Coastal,NaturalVeg,969925.326
+Mediterranean California Mixed Evergreen Forest-Coastal,Developed,53890.5
+Mediterranean California Mixed Evergreen Forest-Coastal,Exotics,46857.762
+Mediterranean California Mixed Evergreen Forest-Coastal,OtherClearing,7.104
+West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Agricultural,75719.76
+West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,NaturalVeg,859151.1
+West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Developed,92872.59
+West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,Exotics,42139.818
+West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods,OtherClearing,787.656
+Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Agricultural,259999.296
+Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,NaturalVeg,658897.332
+Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Developed,110802.198
+Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,Exotics,16881.102
+Central Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest,OtherClearing,263.736
+Mediterranean California Red Fir Forest-Cascades,NaturalVeg,1023212.652
+Mediterranean California Red Fir Forest-Cascades,Developed,13259.172
+Mediterranean California Red Fir Forest-Cascades,Exotics,885.558
+Mediterranean California Red Fir Forest-Cascades,OtherClearing,39.516
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,Agricultural,44272.794
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,NaturalVeg,649573.776
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,Developed,21191.676
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,Exotics,317551.02
+Chihuahuan-Sonoran Desert Bottomland and Swale Grassland-Alkali Sacaton,OtherClearing,3359.082
+South Texas Sand Sheet Grassland,Agricultural,101895.78
+South Texas Sand Sheet Grassland,NaturalVeg,763398.282
+South Texas Sand Sheet Grassland,Developed,56898.822
+South Texas Sand Sheet Grassland,Exotics,93745.05
+South Texas Sand Sheet Grassland,OtherClearing,522.588
+California Mesic Chaparral,Agricultural,12592.062
+California Mesic Chaparral,NaturalVeg,745197.39
+California Mesic Chaparral,Developed,86386.638
+California Mesic Chaparral,Exotics,148496.244
+California Mesic Chaparral,OtherClearing,340.326
+Mediterranean California Red Fir Forest,Agricultural,332.334
+Mediterranean California Red Fir Forest,NaturalVeg,958834.428
+Mediterranean California Red Fir Forest,Developed,5345.538
+Mediterranean California Red Fir Forest,Exotics,1220.112
+Mediterranean California Red Fir Forest,OtherClearing,35.52
+East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Agricultural,583811.826
+East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,NaturalVeg,153253.482
+East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Developed,173996.274
+East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,Exotics,38206.644
+East Gulf Coastal Plain Northern Loess Plain Oak-Hickory Upland,OtherClearing,89.466
+Great Plains Prairie Pothole,Agricultural,527194.056
+Great Plains Prairie Pothole,NaturalVeg,335231.766
+Great Plains Prairie Pothole,Developed,28489.038
+Great Plains Prairie Pothole,Exotics,51518.43
+Great Plains Prairie Pothole,OtherClearing,1404.816
+East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Agricultural,217432.572
+East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,NaturalVeg,503573.256
+East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Developed,160399.218
+East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,Exotics,41459.832
+East Gulf Coastal Plain Southern Loblolly-Hardwood Flatwoods,OtherClearing,269.286
+Columbia Plateau Low Sagebrush Steppe,Agricultural,22835.142
+Columbia Plateau Low Sagebrush Steppe,NaturalVeg,808616.352
+Columbia Plateau Low Sagebrush Steppe,Developed,22854.234
+Columbia Plateau Low Sagebrush Steppe,Exotics,38301.882
+Columbia Plateau Low Sagebrush Steppe,OtherClearing,192.252
+Florida Dry Prairie,Agricultural,361699.716
+Florida Dry Prairie,NaturalVeg,401545.164
+Florida Dry Prairie,Developed,65815.452
+Florida Dry Prairie,Exotics,58487.01
+Florida Dry Prairie,OtherClearing,235.986
+Central Appalachian Pine-Oak Rocky Woodland,Agricultural,37500.684
+Central Appalachian Pine-Oak Rocky Woodland,NaturalVeg,667948.716
+Central Appalachian Pine-Oak Rocky Woodland,Developed,163149.798
+Central Appalachian Pine-Oak Rocky Woodland,Exotics,9618.372
+Central Appalachian Pine-Oak Rocky Woodland,OtherClearing,884.226
+California Coastal Live Oak Woodland and Savanna,Agricultural,102472.536
+California Coastal Live Oak Woodland and Savanna,NaturalVeg,388803.03
+California Coastal Live Oak Woodland and Savanna,Developed,223428.792
+California Coastal Live Oak Woodland and Savanna,Exotics,161995.842
+California Coastal Live Oak Woodland and Savanna,OtherClearing,440.004
+Floridian Highlands Freshwater Marsh,Agricultural,83364.996
+Floridian Highlands Freshwater Marsh,NaturalVeg,660991.902
+Floridian Highlands Freshwater Marsh,Developed,86130.672
+Floridian Highlands Freshwater Marsh,Exotics,37076.886
+Floridian Highlands Freshwater Marsh,OtherClearing,485.958
+North Pacific Mountain Hemlock Forest-Xeric,Agricultural,81.252
+North Pacific Mountain Hemlock Forest-Xeric,NaturalVeg,830681.376
+North Pacific Mountain Hemlock Forest-Xeric,Developed,3247.416
+North Pacific Mountain Hemlock Forest-Xeric,Exotics,6549.444
+North Pacific Mountain Hemlock Forest-Xeric,OtherClearing,25.752
+Eastern Boreal Floodplain,Agricultural,24143.832
+Eastern Boreal Floodplain,NaturalVeg,789533.898
+Eastern Boreal Floodplain,Developed,13544.22
+Eastern Boreal Floodplain,Exotics,9668.766
+Eastern Boreal Floodplain,OtherClearing,206.016
+North Pacific Mountain Hemlock Forest-Wet,Agricultural,20.424
+North Pacific Mountain Hemlock Forest-Wet,NaturalVeg,809254.38
+North Pacific Mountain Hemlock Forest-Wet,Developed,4805.856
+North Pacific Mountain Hemlock Forest-Wet,Exotics,6284.154
+North Pacific Mountain Hemlock Forest-Wet,OtherClearing,8.658
+Boreal Jack Pine-Black Spruce Forest,Agricultural,4354.752
+Boreal Jack Pine-Black Spruce Forest,NaturalVeg,746753.166
+Boreal Jack Pine-Black Spruce Forest,Developed,14725.926
+Boreal Jack Pine-Black Spruce Forest,Exotics,17756.448
+Boreal Jack Pine-Black Spruce Forest,OtherClearing,123.876
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,Agricultural,2690.196
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,NaturalVeg,703268.916
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,Developed,10005.096
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,Exotics,29925.156
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland -Continuous,OtherClearing,169.386
+East Gulf Coastal Plain Southern Loess Bluff Forest,Agricultural,72489.216
+East Gulf Coastal Plain Southern Loess Bluff Forest,NaturalVeg,449806.854
+East Gulf Coastal Plain Southern Loess Bluff Forest,Developed,199019.67
+East Gulf Coastal Plain Southern Loess Bluff Forest,Exotics,22886.868
+East Gulf Coastal Plain Southern Loess Bluff Forest,OtherClearing,616.05
+North American Warm Desert Sparsely Vegetated Systems,Agricultural,70313.616
+North American Warm Desert Sparsely Vegetated Systems,NaturalVeg,550464.54
+North American Warm Desert Sparsely Vegetated Systems,Developed,55068.432
+North American Warm Desert Sparsely Vegetated Systems,Exotics,17631.018
+North American Warm Desert Sparsely Vegetated Systems,OtherClearing,43009.17
+Rocky Mountain Subalpine-Montane Mesic Meadow,Agricultural,10035.732
+Rocky Mountain Subalpine-Montane Mesic Meadow,NaturalVeg,689601.264
+Rocky Mountain Subalpine-Montane Mesic Meadow,Developed,9649.896
+Rocky Mountain Subalpine-Montane Mesic Meadow,Exotics,25851.234
+Rocky Mountain Subalpine-Montane Mesic Meadow,OtherClearing,102.564
+Chihuahuan Mixed Salt Desert Scrub,Agricultural,38060.346
+Chihuahuan Mixed Salt Desert Scrub,NaturalVeg,536875.698
+Chihuahuan Mixed Salt Desert Scrub,Developed,8864.682
+Chihuahuan Mixed Salt Desert Scrub,Exotics,146728.236
+Chihuahuan Mixed Salt Desert Scrub,OtherClearing,1268.73
+East Cascades Oak-Ponderosa Pine Forest and Woodland,Agricultural,123861.57
+East Cascades Oak-Ponderosa Pine Forest and Woodland,NaturalVeg,464861.562
+East Cascades Oak-Ponderosa Pine Forest and Woodland,Developed,69685.8
+East Cascades Oak-Ponderosa Pine Forest and Woodland,Exotics,58355.586
+East Cascades Oak-Ponderosa Pine Forest and Woodland,OtherClearing,50.616
+Lower Mississippi Alluvial Plain Grand Prairie,Agricultural,604924.914
+Lower Mississippi Alluvial Plain Grand Prairie,NaturalVeg,53765.292
+Lower Mississippi Alluvial Plain Grand Prairie,Developed,46484.802
+Lower Mississippi Alluvial Plain Grand Prairie,Exotics,8054.382
+Lower Mississippi Alluvial Plain Grand Prairie,OtherClearing,9.324
+Caribbean Swamp Systems,Agricultural,16367.172
+Caribbean Swamp Systems,NaturalVeg,622354.8
+Caribbean Swamp Systems,Developed,64869.51
+Caribbean Swamp Systems,Exotics,8612.934
+Caribbean Swamp Systems,OtherClearing,584.082
+Arkansas Valley Prairie and Woodland-Prairie,Agricultural,319471.986
+Arkansas Valley Prairie and Woodland-Prairie,NaturalVeg,245958.24
+Arkansas Valley Prairie and Woodland-Prairie,Developed,111354.534
+Arkansas Valley Prairie and Woodland-Prairie,Exotics,21386.148
+Arkansas Valley Prairie and Woodland-Prairie,OtherClearing,326.784
+Southeastern Interior Longleaf Pine Woodland,Agricultural,41210.748
+Southeastern Interior Longleaf Pine Woodland,NaturalVeg,478924.596
+Southeastern Interior Longleaf Pine Woodland,Developed,137107.2
+Southeastern Interior Longleaf Pine Woodland,Exotics,8129.196
+Southeastern Interior Longleaf Pine Woodland,OtherClearing,1107.78
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,Agricultural,1848.372
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,NaturalVeg,654133.434
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,Developed,4057.494
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,Exotics,4749.912
+Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland-Low Elevation,OtherClearing,24.864
+North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Agricultural,122658.33
+North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,NaturalVeg,392028.468
+North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Developed,138786.63
+North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,Exotics,9916.74
+North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland,OtherClearing,49.062
+Southern Appalachian Montane Pine Forest and Woodland,Agricultural,9797.526
+Southern Appalachian Montane Pine Forest and Woodland,NaturalVeg,609713.01
+Southern Appalachian Montane Pine Forest and Woodland,Developed,37510.008
+Southern Appalachian Montane Pine Forest and Woodland,Exotics,3090.684
+Southern Appalachian Montane Pine Forest and Woodland,OtherClearing,55.5
+Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Agricultural,4256.628
+Boreal Jack Pine-Black Spruce Forest-Pine Barrens,NaturalVeg,547887.564
+Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Developed,79366.11
+Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Exotics,22257.054
+Boreal Jack Pine-Black Spruce Forest-Pine Barrens,OtherClearing,386.28
+Southern California Oak Woodland and Savanna,Agricultural,27126.624
+Southern California Oak Woodland and Savanna,NaturalVeg,461525.568
+Southern California Oak Woodland and Savanna,Developed,103960.158
+Southern California Oak Woodland and Savanna,Exotics,59514.204
+Southern California Oak Woodland and Savanna,OtherClearing,369.408
+West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Agricultural,160318.188
+West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,NaturalVeg,341062.152
+West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Developed,92243.664
+West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,Exotics,43096.638
+West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,OtherClearing,628.038
+East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Agricultural,103074.156
+East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,NaturalVeg,396930.672
+East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Developed,98602.632
+East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,Exotics,30044.148
+East Gulf Coastal Plain Northern Mesic Hardwood Slope Forest,OtherClearing,379.176
+Llano Uplift Acidic Forest-Woodland-Glade,Agricultural,4131.42
+Llano Uplift Acidic Forest-Woodland-Glade,NaturalVeg,444413.364
+Llano Uplift Acidic Forest-Woodland-Glade,Developed,43642.092
+Llano Uplift Acidic Forest-Woodland-Glade,Exotics,125891.982
+Llano Uplift Acidic Forest-Woodland-Glade,OtherClearing,312.798
+Arkansas Valley Prairie and Woodland-Woodland,Agricultural,158383.902
+Arkansas Valley Prairie and Woodland-Woodland,NaturalVeg,324133.986
+Arkansas Valley Prairie and Woodland-Woodland,Developed,83955.072
+Arkansas Valley Prairie and Woodland-Woodland,Exotics,29295.342
+Arkansas Valley Prairie and Woodland-Woodland,OtherClearing,747.03
+Central and Southern Appalachian Spruce-Fir Forest,Agricultural,3217.446
+Central and Southern Appalachian Spruce-Fir Forest,NaturalVeg,556750.47
+Central and Southern Appalachian Spruce-Fir Forest,Developed,20567.19
+Central and Southern Appalachian Spruce-Fir Forest,Exotics,15489.162
+Central and Southern Appalachian Spruce-Fir Forest,OtherClearing,274.614
+Rocky Mountain Bigtooth Maple Ravine Woodland,Agricultural,19283.142
+Rocky Mountain Bigtooth Maple Ravine Woodland,NaturalVeg,514687.242
+Rocky Mountain Bigtooth Maple Ravine Woodland,Developed,16661.322
+Rocky Mountain Bigtooth Maple Ravine Woodland,Exotics,25841.466
+Rocky Mountain Bigtooth Maple Ravine Woodland,OtherClearing,99.9
+Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Agricultural,20739.018
+Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,NaturalVeg,447117.102
+Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Developed,87252.216
+Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,Exotics,10268.388
+Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall,OtherClearing,117.882
+Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,Agricultural,38736.558
+Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,NaturalVeg,482101.638
+Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,Developed,14308.566
+Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,Exotics,26902.182
+Inter-Mountain Basins Montane Sagebrush Steppe-Low Sagebrush,OtherClearing,225.33
+North Pacific Montane Riparian Woodland and Shrubland-Wet,Agricultural,14937.27
+North Pacific Montane Riparian Woodland and Shrubland-Wet,NaturalVeg,512360.238
+North Pacific Montane Riparian Woodland and Shrubland-Wet,Developed,30612.468
+North Pacific Montane Riparian Woodland and Shrubland-Wet,Exotics,840.714
+North Pacific Montane Riparian Woodland and Shrubland-Wet,OtherClearing,29.526
+Florida Peninsula Inland Scrub,Agricultural,119769.222
+Florida Peninsula Inland Scrub,NaturalVeg,119700.402
+Florida Peninsula Inland Scrub,Developed,291948.648
+Florida Peninsula Inland Scrub,Exotics,21855.456
+Florida Peninsula Inland Scrub,OtherClearing,568.098
+Great Basin Semi-Desert Chaparral,Agricultural,2063.046
+Great Basin Semi-Desert Chaparral,NaturalVeg,527866.494
+Great Basin Semi-Desert Chaparral,Developed,5390.604
+Great Basin Semi-Desert Chaparral,Exotics,15007.422
+Great Basin Semi-Desert Chaparral,OtherClearing,659.784
+Eastern Great Plains Tallgrass Aspen Parkland,Agricultural,208667.124
+Eastern Great Plains Tallgrass Aspen Parkland,NaturalVeg,272655.294
+Eastern Great Plains Tallgrass Aspen Parkland,Developed,18653.772
+Eastern Great Plains Tallgrass Aspen Parkland,Exotics,40285.674
+Eastern Great Plains Tallgrass Aspen Parkland,OtherClearing,51.726
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,Agricultural,180025.35
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,NaturalVeg,313010.01
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,Developed,18395.142
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,Exotics,18055.26
+Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna,OtherClearing,1.11
+Rocky Mountain Foothill Limber Pine-Juniper Woodland,Agricultural,7859.466
+Rocky Mountain Foothill Limber Pine-Juniper Woodland,NaturalVeg,489730.446
+Rocky Mountain Foothill Limber Pine-Juniper Woodland,Developed,5637.912
+Rocky Mountain Foothill Limber Pine-Juniper Woodland,Exotics,19114.644
+Rocky Mountain Foothill Limber Pine-Juniper Woodland,OtherClearing,333.222
+Eastern Great Plains Wet Meadow-Prairie-Marsh,Agricultural,421533.378
+Eastern Great Plains Wet Meadow-Prairie-Marsh,NaturalVeg,40566.06
+Eastern Great Plains Wet Meadow-Prairie-Marsh,Developed,30210.204
+Eastern Great Plains Wet Meadow-Prairie-Marsh,Exotics,20446.644
+Eastern Great Plains Wet Meadow-Prairie-Marsh,OtherClearing,84.804
+Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Agricultural,20683.518
+Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,NaturalVeg,401073.414
+Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Developed,3583.524
+Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,Exotics,79512.186
+Chihuahuan Stabilized Coppice Dune and Sand Flat Scrub,OtherClearing,1873.014
+Inter-Mountain Basins Juniper Savanna,Agricultural,699.744
+Inter-Mountain Basins Juniper Savanna,NaturalVeg,482955.894
+Inter-Mountain Basins Juniper Savanna,Developed,2885.778
+Inter-Mountain Basins Juniper Savanna,Exotics,7686.75
+Inter-Mountain Basins Juniper Savanna,OtherClearing,7995.33
+California Montane Woodland and Chaparral,Agricultural,4888.662
+California Montane Woodland and Chaparral,NaturalVeg,394540.176
+California Montane Woodland and Chaparral,Developed,21274.26
+California Montane Woodland and Chaparral,Exotics,34525.662
+California Montane Woodland and Chaparral,OtherClearing,304.362
+Mediterranean California Subalpine Woodland,Agricultural,0.666
+Mediterranean California Subalpine Woodland,NaturalVeg,454776.102
+Mediterranean California Subalpine Woodland,Developed,201.132
+Mediterranean California Subalpine Woodland,Exotics,98.346
+Mediterranean California Subalpine Woodland,OtherClearing,0.222
+Northern Rocky Mountain Conifer Swamp,Agricultural,4454.208
+Northern Rocky Mountain Conifer Swamp,NaturalVeg,440943.282
+Northern Rocky Mountain Conifer Swamp,Developed,5377.728
+Northern Rocky Mountain Conifer Swamp,Exotics,1073.814
+Northern Rocky Mountain Conifer Swamp,OtherClearing,19.092
+East Gulf Coastal Plain Savanna and Wet Prairie,Agricultural,42813.366
+East Gulf Coastal Plain Savanna and Wet Prairie,NaturalVeg,227949.6
+East Gulf Coastal Plain Savanna and Wet Prairie,Developed,117107.886
+East Gulf Coastal Plain Savanna and Wet Prairie,Exotics,11599.722
+East Gulf Coastal Plain Savanna and Wet Prairie,OtherClearing,597.846
+Northern Crowley`s Ridge Sand Forest,Agricultural,145355.388
+Northern Crowley`s Ridge Sand Forest,NaturalVeg,169712.118
+Northern Crowley`s Ridge Sand Forest,Developed,62910.582
+Northern Crowley`s Ridge Sand Forest,Exotics,9244.968
+Northern Crowley`s Ridge Sand Forest,OtherClearing,283.494
+Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Agricultural,480.186
+Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,NaturalVeg,356680.518
+Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Developed,13232.088
+Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,Exotics,4136.97
+Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland,OtherClearing,197.802
+Madrean Juniper Savanna,Agricultural,95.238
+Madrean Juniper Savanna,NaturalVeg,365051.25
+Madrean Juniper Savanna,Developed,2895.99
+Madrean Juniper Savanna,Exotics,5405.7
+Madrean Juniper Savanna,OtherClearing,70.818
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,Agricultural,5380.836
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,NaturalVeg,337379.394
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,Developed,13117.758
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,Exotics,17093.112
+Rocky Mountain Gambel Oak-Mixed Montane Shrubland-Patchy,OtherClearing,499.5
+Edwards Plateau Riparian,Agricultural,8258.622
+Edwards Plateau Riparian,NaturalVeg,229784.208
+Edwards Plateau Riparian,Developed,26576.508
+Edwards Plateau Riparian,Exotics,103884.678
+Edwards Plateau Riparian,OtherClearing,196.47
+Rocky Mountain Alpine Fell-Field,Agricultural,80.364
+Rocky Mountain Alpine Fell-Field,NaturalVeg,362694.054
+Rocky Mountain Alpine Fell-Field,Developed,125.874
+Rocky Mountain Alpine Fell-Field,Exotics,69.708
+Rocky Mountain Alpine Fell-Field,OtherClearing,79.92
+Rocky Mountain Alpine Turf,Agricultural,36519.666
+Rocky Mountain Alpine Turf,NaturalVeg,308270.31
+Rocky Mountain Alpine Turf,Developed,10165.824
+Rocky Mountain Alpine Turf,Exotics,4949.712
+Rocky Mountain Alpine Turf,OtherClearing,71.484
+East-Central Texas Plains Southern Pine Forest and Woodland,Agricultural,12393.594
+East-Central Texas Plains Southern Pine Forest and Woodland,NaturalVeg,284416.854
+East-Central Texas Plains Southern Pine Forest and Woodland,Developed,15426.336
+East-Central Texas Plains Southern Pine Forest and Woodland,Exotics,38686.608
+East-Central Texas Plains Southern Pine Forest and Woodland,OtherClearing,479.076
+Western Great Plains Depressional Wetland Systems-Playa,Agricultural,124573.968
+Western Great Plains Depressional Wetland Systems-Playa,NaturalVeg,173293.644
+Western Great Plains Depressional Wetland Systems-Playa,Developed,12903.528
+Western Great Plains Depressional Wetland Systems-Playa,Exotics,22346.742
+Western Great Plains Depressional Wetland Systems-Playa,OtherClearing,431.568
+Caribbean Coastal Wetland Systems,Agricultural,12.432
+Caribbean Coastal Wetland Systems,NaturalVeg,314549.136
+Caribbean Coastal Wetland Systems,Developed,9668.988
+Caribbean Coastal Wetland Systems,Exotics,329.892
+Southern Rocky Mountain Ponderosa Pine Woodland-South,Agricultural,884.226
+Southern Rocky Mountain Ponderosa Pine Woodland-South,NaturalVeg,308682.786
+Southern Rocky Mountain Ponderosa Pine Woodland-South,Developed,6454.65
+Southern Rocky Mountain Ponderosa Pine Woodland-South,Exotics,3349.536
+Southern Rocky Mountain Ponderosa Pine Woodland-South,OtherClearing,55.944
+Northern Rocky Mountain Subalpine-Upper Montane Grassland,Agricultural,34281.684
+Northern Rocky Mountain Subalpine-Upper Montane Grassland,NaturalVeg,267214.074
+Northern Rocky Mountain Subalpine-Upper Montane Grassland,Developed,2913.75
+Northern Rocky Mountain Subalpine-Upper Montane Grassland,Exotics,3767.784
+Northern Rocky Mountain Subalpine-Upper Montane Grassland,OtherClearing,100.566
+Bluegrass Savanna and Woodland,Agricultural,197771.586
+Bluegrass Savanna and Woodland,NaturalVeg,50599.35
+Bluegrass Savanna and Woodland,Developed,47673.39
+Bluegrass Savanna and Woodland,Exotics,7472.964
+Bluegrass Savanna and Woodland,OtherClearing,44.622
+Lower Mississippi River Dune Woodland and Forest,Agricultural,241736.022
+Lower Mississippi River Dune Woodland and Forest,NaturalVeg,21711.6
+Lower Mississippi River Dune Woodland and Forest,Developed,21110.202
+Lower Mississippi River Dune Woodland and Forest,Exotics,2850.702
+Texas-Louisiana Saline Coastal Prairie,Agricultural,71777.928
+Texas-Louisiana Saline Coastal Prairie,NaturalVeg,144130.392
+Texas-Louisiana Saline Coastal Prairie,Developed,40374.03
+Texas-Louisiana Saline Coastal Prairie,Exotics,26243.064
+Texas-Louisiana Saline Coastal Prairie,OtherClearing,338.994
+Northern Atlantic Coastal Plain Maritime Forest,Agricultural,46305.204
+Northern Atlantic Coastal Plain Maritime Forest,NaturalVeg,110475.858
+Northern Atlantic Coastal Plain Maritime Forest,Developed,112030.302
+Northern Atlantic Coastal Plain Maritime Forest,Exotics,5162.166
+Northern Atlantic Coastal Plain Maritime Forest,OtherClearing,41.736
+Nashville Basin Limestone Glade and Woodland,Agricultural,61928.898
+Nashville Basin Limestone Glade and Woodland,NaturalVeg,114658.56
+Nashville Basin Limestone Glade and Woodland,Developed,93210.918
+Nashville Basin Limestone Glade and Woodland,Exotics,2061.492
+Nashville Basin Limestone Glade and Woodland,OtherClearing,373.404
+Columbia Basin Foothill and Canyon Dry Grassland,Agricultural,92547.804
+Columbia Basin Foothill and Canyon Dry Grassland,NaturalVeg,156674.28
+Columbia Basin Foothill and Canyon Dry Grassland,Developed,5366.628
+Columbia Basin Foothill and Canyon Dry Grassland,Exotics,16376.718
+Columbia Basin Foothill and Canyon Dry Grassland,OtherClearing,0.222
+Northern Atlantic Coastal Plain Dune and Swale,Agricultural,8393.82
+Northern Atlantic Coastal Plain Dune and Swale,NaturalVeg,160341.498
+Northern Atlantic Coastal Plain Dune and Swale,Developed,94451.454
+Northern Atlantic Coastal Plain Dune and Swale,Exotics,4154.508
+Northern Atlantic Coastal Plain Dune and Swale,OtherClearing,156.288
+Southern Appalachian Northern Hardwood Forest,Agricultural,2460.648
+Southern Appalachian Northern Hardwood Forest,NaturalVeg,249159.48
+Southern Appalachian Northern Hardwood Forest,Developed,9364.848
+Southern Appalachian Northern Hardwood Forest,Exotics,4282.602
+Southern Appalachian Northern Hardwood Forest,OtherClearing,909.312
+Great Lakes Coastal Marsh Systems,Agricultural,68816.226
+Great Lakes Coastal Marsh Systems,NaturalVeg,115076.586
+Great Lakes Coastal Marsh Systems,Developed,51700.026
+Great Lakes Coastal Marsh Systems,Exotics,17242.296
+Great Lakes Coastal Marsh Systems,OtherClearing,12882.66
+Northern California Coastal Scrub,Agricultural,5746.692
+Northern California Coastal Scrub,NaturalVeg,95052.852
+Northern California Coastal Scrub,Developed,115090.35
+Northern California Coastal Scrub,Exotics,39895.398
+Northern California Coastal Scrub,OtherClearing,559.662
+West Gulf Coastal Plain Northern Calcareous Prairie,Agricultural,125983.668
+West Gulf Coastal Plain Northern Calcareous Prairie,NaturalVeg,92536.704
+West Gulf Coastal Plain Northern Calcareous Prairie,Developed,20440.206
+West Gulf Coastal Plain Northern Calcareous Prairie,Exotics,11669.652
+West Gulf Coastal Plain Northern Calcareous Prairie,OtherClearing,354.756
+North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Agricultural,65.49
+North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,NaturalVeg,236342.976
+North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Developed,614.052
+North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,Exotics,1298.7
+North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow,OtherClearing,4.884
+Central Atlantic Coastal Plain Maritime Forest,Agricultural,5787.54
+Central Atlantic Coastal Plain Maritime Forest,NaturalVeg,162845.436
+Central Atlantic Coastal Plain Maritime Forest,Developed,66080.52
+Central Atlantic Coastal Plain Maritime Forest,Exotics,2095.902
+Central Atlantic Coastal Plain Maritime Forest,OtherClearing,19.314
+Northeastern Interior Pine Barrens,Agricultural,13088.676
+Northeastern Interior Pine Barrens,NaturalVeg,128058.036
+Northeastern Interior Pine Barrens,Developed,85259.544
+Northeastern Interior Pine Barrens,Exotics,3215.448
+Northeastern Interior Pine Barrens,OtherClearing,888.666
+West Gulf Coastal Plain Southern Calcareous Prairie,Agricultural,76333.812
+West Gulf Coastal Plain Southern Calcareous Prairie,NaturalVeg,84528.054
+West Gulf Coastal Plain Southern Calcareous Prairie,Developed,58106.946
+West Gulf Coastal Plain Southern Calcareous Prairie,Exotics,9380.832
+West Gulf Coastal Plain Southern Calcareous Prairie,OtherClearing,227.106
+Great Lakes Wet-Mesic Lakeplain Prairie,Agricultural,99386.07
+Great Lakes Wet-Mesic Lakeplain Prairie,NaturalVeg,40174.23
+Great Lakes Wet-Mesic Lakeplain Prairie,Developed,84980.49
+Great Lakes Wet-Mesic Lakeplain Prairie,Exotics,3363.744
+Great Lakes Wet-Mesic Lakeplain Prairie,OtherClearing,362.748
+Central Interior Highlands Dry Acidic Glade and Barrens,Agricultural,90091.596
+Central Interior Highlands Dry Acidic Glade and Barrens,NaturalVeg,93864.708
+Central Interior Highlands Dry Acidic Glade and Barrens,Developed,32786.292
+Central Interior Highlands Dry Acidic Glade and Barrens,Exotics,5934.06
+Central Interior Highlands Dry Acidic Glade and Barrens,OtherClearing,58.386
+Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Agricultural,3.108
+Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,NaturalVeg,212302.374
+Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Developed,4170.048
+Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland,Exotics,311.244
+Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Agricultural,457.098
+Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,NaturalVeg,195597.984
+Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Developed,2116.104
+Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,Exotics,1218.114
+Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland,OtherClearing,37.962
+North Pacific Montane Riparian Woodland and Shrubland-Dry,Agricultural,4396.932
+North Pacific Montane Riparian Woodland and Shrubland-Dry,NaturalVeg,180574.8
+North Pacific Montane Riparian Woodland and Shrubland-Dry,Developed,11876.778
+North Pacific Montane Riparian Woodland and Shrubland-Dry,Exotics,773.004
+North Pacific Montane Riparian Woodland and Shrubland-Dry,OtherClearing,4.662
+South Florida Hardwood Hammock,Agricultural,23786.19
+South Florida Hardwood Hammock,NaturalVeg,10788.534
+South Florida Hardwood Hammock,Developed,139620.24
+South Florida Hardwood Hammock,Exotics,12672.648
+South Florida Hardwood Hammock,OtherClearing,112.554
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,Agricultural,265.956
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,NaturalVeg,183974.508
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,Developed,20.868
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,Exotics,1095.57
+Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest-Lodgepole Pine,OtherClearing,160.95
+North Pacific Maritime Mesic Subalpine Parkland,Agricultural,21.312
+North Pacific Maritime Mesic Subalpine Parkland,NaturalVeg,180755.064
+North Pacific Maritime Mesic Subalpine Parkland,Developed,389.388
+North Pacific Maritime Mesic Subalpine Parkland,Exotics,1118.214
+North Pacific Maritime Mesic Subalpine Parkland,OtherClearing,0.444
+East Gulf Coastal Plain Maritime Forest,Agricultural,7994.886
+East Gulf Coastal Plain Maritime Forest,NaturalVeg,70114.704
+East Gulf Coastal Plain Maritime Forest,Developed,92837.958
+East Gulf Coastal Plain Maritime Forest,Exotics,4059.492
+East Gulf Coastal Plain Maritime Forest,OtherClearing,142.968
+Great Lakes Wooded Dune and Swale,Agricultural,6476.628
+Great Lakes Wooded Dune and Swale,NaturalVeg,68354.244
+Great Lakes Wooded Dune and Swale,Developed,81551.034
+Great Lakes Wooded Dune and Swale,Exotics,1943.388
+Great Lakes Wooded Dune and Swale,OtherClearing,256.41
+Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Agricultural,8.658
+Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,NaturalVeg,157197.09
+Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Developed,170.274
+Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,Exotics,191.142
+Inter-Mountain Basins Subalpine Limber-Bristlecone Pine Woodland,OtherClearing,1.554
+South Florida Pine Rockland,Agricultural,20540.55
+South Florida Pine Rockland,NaturalVeg,19334.424
+South Florida Pine Rockland,Developed,114865.02
+South Florida Pine Rockland,Exotics,1617.048
+South Florida Pine Rockland,OtherClearing,3.774
+Central Appalachian Alkaline Glade and Woodland,Agricultural,40453.95
+Central Appalachian Alkaline Glade and Woodland,NaturalVeg,80535.606
+Central Appalachian Alkaline Glade and Woodland,Developed,28163.364
+Central Appalachian Alkaline Glade and Woodland,Exotics,3768.894
+Central Appalachian Alkaline Glade and Woodland,OtherClearing,490.62
+Rocky Mountain Alpine Dwarf-Shrubland,Agricultural,89.466
+Rocky Mountain Alpine Dwarf-Shrubland,NaturalVeg,149022.162
+Rocky Mountain Alpine Dwarf-Shrubland,Developed,560.55
+Rocky Mountain Alpine Dwarf-Shrubland,Exotics,227.55
+Rocky Mountain Alpine Dwarf-Shrubland,OtherClearing,56.388
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,Agricultural,1843.71
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,NaturalVeg,144070.23
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,Developed,996.78
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,Exotics,1683.648
+Middle Rocky Mountain Montane Douglas-fir Forest and Woodland-Fire-maintained Savanna,OtherClearing,4.218
+Southern Atlantic Coastal Plain Maritime Forest,Agricultural,808.746
+Southern Atlantic Coastal Plain Maritime Forest,NaturalVeg,85917.996
+Southern Atlantic Coastal Plain Maritime Forest,Developed,57814.572
+Southern Atlantic Coastal Plain Maritime Forest,Exotics,2873.568
+Southern Atlantic Coastal Plain Maritime Forest,OtherClearing,1.332
+Northern Rocky Mountain Foothill Conifer Wooded Steppe,Agricultural,4309.686
+Northern Rocky Mountain Foothill Conifer Wooded Steppe,NaturalVeg,135102.54
+Northern Rocky Mountain Foothill Conifer Wooded Steppe,Developed,2400.93
+Northern Rocky Mountain Foothill Conifer Wooded Steppe,Exotics,4713.06
+Northern Rocky Mountain Foothill Conifer Wooded Steppe,OtherClearing,1.776
+Sierran-Intermontane Desert Western White Pine-White Fir Woodland,Agricultural,25.53
+Sierran-Intermontane Desert Western White Pine-White Fir Woodland,NaturalVeg,143574.726
+Sierran-Intermontane Desert Western White Pine-White Fir Woodland,Developed,54.39
+Sierran-Intermontane Desert Western White Pine-White Fir Woodland,Exotics,65.49
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,Agricultural,11.322
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,NaturalVeg,141628.008
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,Developed,1479.63
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,Exotics,124.764
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Wet,OtherClearing,6.882
+East Gulf Coastal Plain Limestone Forest,Agricultural,64849.974
+East Gulf Coastal Plain Limestone Forest,NaturalVeg,36859.992
+East Gulf Coastal Plain Limestone Forest,Developed,30605.808
+East Gulf Coastal Plain Limestone Forest,Exotics,3436.338
+East Gulf Coastal Plain Limestone Forest,OtherClearing,10.434
+Southern Rocky Mountain Ponderosa Pine Woodland-North,Agricultural,264.402
+Southern Rocky Mountain Ponderosa Pine Woodland-North,NaturalVeg,99088.812
+Southern Rocky Mountain Ponderosa Pine Woodland-North,Developed,31427.43
+Southern Rocky Mountain Ponderosa Pine Woodland-North,Exotics,859.806
+Southern Rocky Mountain Ponderosa Pine Woodland-North,OtherClearing,36.63
+Southwest Florida Coastal Strand and Maritime Hammock,Agricultural,2145.852
+Southwest Florida Coastal Strand and Maritime Hammock,NaturalVeg,21118.86
+Southwest Florida Coastal Strand and Maritime Hammock,Developed,105219.12
+Southwest Florida Coastal Strand and Maritime Hammock,Exotics,1288.488
+Southwest Florida Coastal Strand and Maritime Hammock,OtherClearing,32.634
+Central and Upper Texas Coast Dune and Coastal Grassland,Agricultural,1979.352
+Central and Upper Texas Coast Dune and Coastal Grassland,NaturalVeg,96097.362
+Central and Upper Texas Coast Dune and Coastal Grassland,Developed,26822.262
+Central and Upper Texas Coast Dune and Coastal Grassland,Exotics,3411.03
+Central and Upper Texas Coast Dune and Coastal Grassland,OtherClearing,174.048
+South-Central Interior/Upper Coastal Plain Flatwoods,Agricultural,66935.442
+South-Central Interior/Upper Coastal Plain Flatwoods,NaturalVeg,30579.834
+South-Central Interior/Upper Coastal Plain Flatwoods,Developed,20642.004
+South-Central Interior/Upper Coastal Plain Flatwoods,Exotics,3795.312
+South-Central Interior/Upper Coastal Plain Flatwoods,OtherClearing,16.65
+North Pacific Alpine and Subalpine Dry Grassland,Agricultural,51.282
+North Pacific Alpine and Subalpine Dry Grassland,NaturalVeg,119860.242
+North Pacific Alpine and Subalpine Dry Grassland,Developed,459.54
+North Pacific Alpine and Subalpine Dry Grassland,Exotics,1262.292
+North Pacific Alpine and Subalpine Dry Grassland,OtherClearing,0.666
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Agricultural,34179.342
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,NaturalVeg,66865.512
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Developed,15574.854
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,Exotics,3443.22
+Mississippi River Alluvial Plain Dry-Mesic Loess Slope Forest,OtherClearing,73.038
+Colorado Plateau Pinyon-Juniper Shrubland,Agricultural,4598.286
+Colorado Plateau Pinyon-Juniper Shrubland,NaturalVeg,102811.53
+Colorado Plateau Pinyon-Juniper Shrubland,Developed,4988.784
+Colorado Plateau Pinyon-Juniper Shrubland,Exotics,4714.614
+Colorado Plateau Pinyon-Juniper Shrubland,OtherClearing,39.516
+Pacific Coastal Marsh Systems,Agricultural,17218.098
+Pacific Coastal Marsh Systems,NaturalVeg,55842.768
+Pacific Coastal Marsh Systems,Developed,34990.974
+Pacific Coastal Marsh Systems,Exotics,2000.22
+Pacific Coastal Marsh Systems,OtherClearing,17.094
+Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Agricultural,28979.214
+Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,NaturalVeg,65944.878
+Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Developed,11709.834
+Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,Exotics,2429.568
+Wyoming Basins Dwarf Sagebrush Shrubland and Steppe,OtherClearing,961.926
+North Pacific Montane Grassland,Agricultural,3098.898
+North Pacific Montane Grassland,NaturalVeg,71202.504
+North Pacific Montane Grassland,Developed,7765.56
+North Pacific Montane Grassland,Exotics,26864.664
+North Pacific Montane Grassland,OtherClearing,12.876
+North Pacific Swamp Systems,Agricultural,3520.92
+North Pacific Swamp Systems,NaturalVeg,94625.058
+North Pacific Swamp Systems,Developed,10355.19
+North Pacific Swamp Systems,Exotics,258.186
+North Pacific Swamp Systems,OtherClearing,1.11
+Columbia Basin Palouse Prairie,Agricultural,85641.384
+Columbia Basin Palouse Prairie,NaturalVeg,7442.772
+Columbia Basin Palouse Prairie,Developed,3827.946
+Columbia Basin Palouse Prairie,Exotics,10576.968
+Columbia Basin Palouse Prairie,OtherClearing,5.55
+Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Agricultural,2129.424
+Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,NaturalVeg,94773.132
+Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Developed,3875.454
+Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Exotics,863.58
+Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,OtherClearing,2.664
+South-Central Interior/Upper Coastal Plain Wet Flatwoods,Agricultural,51894.498
+South-Central Interior/Upper Coastal Plain Wet Flatwoods,NaturalVeg,24526.782
+South-Central Interior/Upper Coastal Plain Wet Flatwoods,Developed,20026.176
+South-Central Interior/Upper Coastal Plain Wet Flatwoods,Exotics,3746.472
+South-Central Interior/Upper Coastal Plain Wet Flatwoods,OtherClearing,16.872
+Southeast Florida Coastal Strand and Maritime Hammock,Agricultural,132.978
+Southeast Florida Coastal Strand and Maritime Hammock,NaturalVeg,9525.576
+Southeast Florida Coastal Strand and Maritime Hammock,Developed,89044.866
+Southeast Florida Coastal Strand and Maritime Hammock,Exotics,666
+Southeast Florida Coastal Strand and Maritime Hammock,OtherClearing,5.772
+California Northern Coastal Grassland,Agricultural,11979.12
+California Northern Coastal Grassland,NaturalVeg,32879.088
+California Northern Coastal Grassland,Developed,47358.372
+California Northern Coastal Grassland,Exotics,5107.554
+California Northern Coastal Grassland,OtherClearing,88.356
+Edwards Plateau Mesic Canyon,Agricultural,67.71
+Edwards Plateau Mesic Canyon,NaturalVeg,83899.128
+Edwards Plateau Mesic Canyon,Developed,7388.382
+Edwards Plateau Mesic Canyon,Exotics,5676.096
+Edwards Plateau Mesic Canyon,OtherClearing,2.442
+South Florida Cypress Dome,Agricultural,1595.736
+South Florida Cypress Dome,NaturalVeg,88952.292
+South Florida Cypress Dome,Developed,3485.178
+South Florida Cypress Dome,Exotics,1374.846
+South Florida Cypress Dome,OtherClearing,25.308
+Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Agricultural,1696.746
+Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,NaturalVeg,91378.308
+Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Developed,640.692
+Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,Exotics,621.822
+Rocky Mountain Alpine/Montane Sparsely Vegetated Systems,OtherClearing,657.342
+Southern Crowley`s Ridge Mesic Loess Slope Forest,Agricultural,10713.276
+Southern Crowley`s Ridge Mesic Loess Slope Forest,NaturalVeg,68773.158
+Southern Crowley`s Ridge Mesic Loess Slope Forest,Developed,12073.692
+Southern Crowley`s Ridge Mesic Loess Slope Forest,Exotics,2500.608
+Southern Crowley`s Ridge Mesic Loess Slope Forest,OtherClearing,70.374
+Boreal Aspen-Birch Forest,Agricultural,19337.976
+Boreal Aspen-Birch Forest,NaturalVeg,68199.732
+Boreal Aspen-Birch Forest,Developed,1754.688
+Boreal Aspen-Birch Forest,Exotics,2557.662
+Boreal Aspen-Birch Forest,OtherClearing,1.776
+Northwestern Great Plains Highland White Spruce Woodland,Agricultural,72.594
+Northwestern Great Plains Highland White Spruce Woodland,NaturalVeg,87424.044
+Northwestern Great Plains Highland White Spruce Woodland,Developed,2537.682
+Northwestern Great Plains Highland White Spruce Woodland,Exotics,1148.628
+Northwestern Great Plains Highland White Spruce Woodland,OtherClearing,47.064
+West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Agricultural,13177.698
+West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,NaturalVeg,57776.61
+West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Developed,12310.344
+West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,Exotics,4120.764
+West Gulf Coastal Plain Chenier and Upper Texas Coastal Fringe Forest and Woodland,OtherClearing,7.548
+Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,Agricultural,5070.924
+Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,NaturalVeg,73241.13
+Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,Developed,5055.606
+Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,Exotics,469.086
+Atlantic Coastal Plain Clay-Based Carolina Bay Wetland,OtherClearing,1.998
+Eastern Highland Rim Prairie and Barrens,Agricultural,34546.086
+Eastern Highland Rim Prairie and Barrens,NaturalVeg,26960.568
+Eastern Highland Rim Prairie and Barrens,Developed,16191.126
+Eastern Highland Rim Prairie and Barrens,Exotics,2804.526
+Eastern Highland Rim Prairie and Barrens,OtherClearing,0.888
+Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Agricultural,134.088
+Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,NaturalVeg,75977.946
+Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Developed,343.878
+Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Exotics,893.772
+Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,OtherClearing,2.442
+Mediterranean California Mesic Serpentine Woodland and Chaparral,Agricultural,166.944
+Mediterranean California Mesic Serpentine Woodland and Chaparral,NaturalVeg,56311.41
+Mediterranean California Mesic Serpentine Woodland and Chaparral,Developed,1852.146
+Mediterranean California Mesic Serpentine Woodland and Chaparral,Exotics,8955.258
+Mediterranean California Mesic Serpentine Woodland and Chaparral,OtherClearing,167.166
+Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Agricultural,5412.804
+Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,NaturalVeg,52014.822
+Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Developed,8229.984
+Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Exotics,1240.758
+Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,OtherClearing,58.608
+North Pacific Broadleaf Landslide Forest and Shrubland,Agricultural,1127.76
+North Pacific Broadleaf Landslide Forest and Shrubland,NaturalVeg,59025.138
+North Pacific Broadleaf Landslide Forest and Shrubland,Developed,4294.368
+North Pacific Broadleaf Landslide Forest and Shrubland,Exotics,836.718
+North Pacific Broadleaf Landslide Forest and Shrubland,OtherClearing,7.77
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Dry,NaturalVeg,63022.914
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Dry,Developed,79.032
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland-Dry,Exotics,2.22
+Western Great Plains Sparsely Vegetated Systems,Agricultural,20651.328
+Western Great Plains Sparsely Vegetated Systems,NaturalVeg,23888.31
+Western Great Plains Sparsely Vegetated Systems,Developed,2550.336
+Western Great Plains Sparsely Vegetated Systems,Exotics,757.464
+Western Great Plains Sparsely Vegetated Systems,OtherClearing,8215.776
+Madrean Oriental Chaparral,Agricultural,9.768
+Madrean Oriental Chaparral,NaturalVeg,52325.4
+Madrean Oriental Chaparral,Developed,182.706
+Madrean Oriental Chaparral,Exotics,1694.526
+Madrean Oriental Chaparral,OtherClearing,19.758
+Alabama Ketona Glade and Woodland,Agricultural,1745.142
+Alabama Ketona Glade and Woodland,NaturalVeg,44008.17
+Alabama Ketona Glade and Woodland,Developed,5751.132
+Alabama Ketona Glade and Woodland,Exotics,905.316
+Alabama Ketona Glade and Woodland,OtherClearing,204.24
+Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Agricultural,9669.654
+Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,NaturalVeg,23466.954
+Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Developed,15498.042
+Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,Exotics,1847.262
+Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral,OtherClearing,55.5
+North Pacific Montane Shrubland,Agricultural,467.088
+North Pacific Montane Shrubland,NaturalVeg,45620.112
+North Pacific Montane Shrubland,Developed,823.176
+North Pacific Montane Shrubland,Exotics,2901.54
+North Pacific Montane Shrubland,OtherClearing,2.22
+South Florida Dwarf Cypress Savanna,Agricultural,0.666
+South Florida Dwarf Cypress Savanna,NaturalVeg,47351.268
+South Florida Dwarf Cypress Savanna,Developed,241.758
+South Florida Dwarf Cypress Savanna,Exotics,7.104
+Acadian-Appalachian Alpine Tundra,Agricultural,19.092
+Acadian-Appalachian Alpine Tundra,NaturalVeg,43404.108
+Acadian-Appalachian Alpine Tundra,Developed,2022.642
+Acadian-Appalachian Alpine Tundra,Exotics,427.572
+Acadian-Appalachian Alpine Tundra,OtherClearing,7.77
+Northern California Mesic Subalpine Woodland,Agricultural,0.222
+Northern California Mesic Subalpine Woodland,NaturalVeg,44188.212
+Northern California Mesic Subalpine Woodland,Developed,231.102
+Northern California Mesic Subalpine Woodland,Exotics,5.328
+South Texas Lomas,Agricultural,4690.416
+South Texas Lomas,NaturalVeg,24536.772
+South Texas Lomas,Developed,4019.532
+South Texas Lomas,Exotics,9869.676
+South Texas Lomas,OtherClearing,179.598
+California Xeric Serpentine Chaparral,Agricultural,735.708
+California Xeric Serpentine Chaparral,NaturalVeg,26371.824
+California Xeric Serpentine Chaparral,Developed,3677.208
+California Xeric Serpentine Chaparral,Exotics,6418.242
+California Xeric Serpentine Chaparral,OtherClearing,83.25
+Piedmont Hardpan Woodland and Forest,Agricultural,9099.558
+Piedmont Hardpan Woodland and Forest,NaturalVeg,10973.682
+Piedmont Hardpan Woodland and Forest,Developed,16613.148
+Piedmont Hardpan Woodland and Forest,Exotics,247.752
+Piedmont Hardpan Woodland and Forest,OtherClearing,144.744
+North Pacific Avalanche Chute Shrubland,Agricultural,11.766
+North Pacific Avalanche Chute Shrubland,NaturalVeg,33235.398
+North Pacific Avalanche Chute Shrubland,Developed,36.408
+North Pacific Avalanche Chute Shrubland,Exotics,2447.106
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Agricultural,6.216
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,NaturalVeg,33815.706
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Developed,37.74
+Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland,Exotics,10.434
+Pennyroyal Karst Plain Prairie and Barrens,Agricultural,12627.138
+Pennyroyal Karst Plain Prairie and Barrens,NaturalVeg,7081.578
+Pennyroyal Karst Plain Prairie and Barrens,Developed,6636.912
+Pennyroyal Karst Plain Prairie and Barrens,Exotics,2094.348
+Pennyroyal Karst Plain Prairie and Barrens,OtherClearing,9.99
+Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,Agricultural,82.806
+Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,NaturalVeg,25334.64
+Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,Developed,598.512
+Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,Exotics,881.784
+Rocky Mountain Lower Montane-Foothill Shrubland-No True Mountain Mahogany,OtherClearing,64.824
+Sierra Nevada Alpine Dwarf-Shrubland,NaturalVeg,23326.65
+Sierra Nevada Alpine Dwarf-Shrubland,Developed,20.868
+Sierra Nevada Alpine Dwarf-Shrubland,Exotics,1.332
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest-Cedar Groves,Agricultural,0.666
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest-Cedar Groves,NaturalVeg,22394.694
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest-Cedar Groves,Developed,181.818
+Northern Rocky Mountain Mesic Montane Mixed Conifer Forest-Cedar Groves,Exotics,6.66
+Tamaulipan Clay Grassland,Agricultural,7084.908
+Tamaulipan Clay Grassland,NaturalVeg,6275.052
+Tamaulipan Clay Grassland,Developed,1392.384
+Tamaulipan Clay Grassland,Exotics,7301.58
+Tamaulipan Clay Grassland,OtherClearing,3.552
+California Maritime Chaparral,Agricultural,93.906
+California Maritime Chaparral,NaturalVeg,9353.748
+California Maritime Chaparral,Developed,10400.7
+California Maritime Chaparral,Exotics,1115.994
+California Maritime Chaparral,OtherClearing,1.332
+Western Great Plains Depressional Wetland Systems-Saline,Agricultural,9127.752
+Western Great Plains Depressional Wetland Systems-Saline,NaturalVeg,9462.528
+Western Great Plains Depressional Wetland Systems-Saline,Developed,1077.81
+Western Great Plains Depressional Wetland Systems-Saline,Exotics,422.466
+Western Great Plains Depressional Wetland Systems-Saline,OtherClearing,15.762
+Madrean Upper Montane Conifer-Oak Forest and Woodland,Agricultural,0.666
+Madrean Upper Montane Conifer-Oak Forest and Woodland,NaturalVeg,19230.084
+Madrean Upper Montane Conifer-Oak Forest and Woodland,Developed,14.874
+Madrean Upper Montane Conifer-Oak Forest and Woodland,Exotics,6.216
+Great Lakes Alvar,Agricultural,4364.52
+Great Lakes Alvar,NaturalVeg,10342.536
+Great Lakes Alvar,Developed,3646.572
+Great Lakes Alvar,Exotics,153.402
+Great Lakes Alvar,OtherClearing,35.076
+East Gulf Coastal Plain Jackson Plain Prairie and Barrens,Agricultural,7899.648
+East Gulf Coastal Plain Jackson Plain Prairie and Barrens,NaturalVeg,1777.554
+East Gulf Coastal Plain Jackson Plain Prairie and Barrens,Developed,3544.008
+East Gulf Coastal Plain Jackson Plain Prairie and Barrens,Exotics,600.954
+East Gulf Coastal Plain Jackson Plain Prairie and Barrens,OtherClearing,79.476
+Western Highland Rim Prairie and Barrens,Agricultural,731.046
+Western Highland Rim Prairie and Barrens,NaturalVeg,8308.572
+Western Highland Rim Prairie and Barrens,Developed,1437.894
+Western Highland Rim Prairie and Barrens,Exotics,692.418
+Western Highland Rim Prairie and Barrens,OtherClearing,24.42
+Mediterranean California Subalpine Meadow,NaturalVeg,10358.964
+Mediterranean California Subalpine Meadow,Developed,33.078
+Mediterranean California Alpine Fell-Field,NaturalVeg,10139.628
+Mediterranean California Alpine Fell-Field,Developed,5.328
+California Mesic Serpentine Grassland,Agricultural,32.19
+California Mesic Serpentine Grassland,NaturalVeg,5451.432
+California Mesic Serpentine Grassland,Developed,784.992
+California Mesic Serpentine Grassland,Exotics,3361.968
+Southern Atlantic Coastal Plain Dune and Maritime Grassland,Agricultural,1208.346
+Southern Atlantic Coastal Plain Dune and Maritime Grassland,NaturalVeg,2481.294
+Southern Atlantic Coastal Plain Dune and Maritime Grassland,Developed,5709.396
+Southern Atlantic Coastal Plain Dune and Maritime Grassland,Exotics,31.302
+Southern Atlantic Coastal Plain Dune and Maritime Grassland,OtherClearing,0.888
+East Gulf Coastal Plain Dune and Coastal Grassland,Agricultural,30.192
+East Gulf Coastal Plain Dune and Coastal Grassland,NaturalVeg,3119.1
+East Gulf Coastal Plain Dune and Coastal Grassland,Developed,4762.566
+East Gulf Coastal Plain Dune and Coastal Grassland,Exotics,356.088
+East Gulf Coastal Plain Dune and Coastal Grassland,OtherClearing,4.44
+Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,Agricultural,37.74
+Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,NaturalVeg,773.448
+Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,Developed,7111.326
+Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,Exotics,139.638
+Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems,OtherClearing,27.306
+Ouachita Montane Oak Forest,Agricultural,32.19
+Ouachita Montane Oak Forest,NaturalVeg,7112.436
+Ouachita Montane Oak Forest,Developed,788.988
+Ouachita Montane Oak Forest,Exotics,99.456
+Mediterranean California Alpine Dry Tundra,NaturalVeg,7388.826
+Mediterranean California Alpine Dry Tundra,Developed,22.866
+Southern Rocky Mountain Ponderosa Pine Savanna-North,Agricultural,10.212
+Southern Rocky Mountain Ponderosa Pine Savanna-North,NaturalVeg,4985.898
+Southern Rocky Mountain Ponderosa Pine Savanna-North,Developed,1473.414
+Southern Rocky Mountain Ponderosa Pine Savanna-North,Exotics,188.922
+Southern Rocky Mountain Ponderosa Pine Savanna-North,OtherClearing,4.662
+California Coastal Closed-Cone Conifer Forest and Woodland,Agricultural,66.156
+California Coastal Closed-Cone Conifer Forest and Woodland,NaturalVeg,4511.04
+California Coastal Closed-Cone Conifer Forest and Woodland,Developed,1661.226
+California Coastal Closed-Cone Conifer Forest and Woodland,Exotics,290.376
+California Coastal Closed-Cone Conifer Forest and Woodland,OtherClearing,11.322
+North Pacific Wooded Volcanic Flowage,Agricultural,6.66
+North Pacific Wooded Volcanic Flowage,NaturalVeg,5010.54
+North Pacific Wooded Volcanic Flowage,Developed,170.052
+North Pacific Wooded Volcanic Flowage,Exotics,51.726
+North Pacific Wooded Volcanic Flowage,OtherClearing,1.998
+Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,Agricultural,10.212
+Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,NaturalVeg,5100.228
+Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,Developed,48.618
+Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,Exotics,50.838
+Rocky Mountain Lower Montane-Foothill Shrubland-True Mountain Mahogany,OtherClearing,9.324
+Northwestern Great Plains Canyon,Agricultural,1242.756
+Northwestern Great Plains Canyon,NaturalVeg,2169.384
+Northwestern Great Plains Canyon,Developed,213.12
+Northwestern Great Plains Canyon,Exotics,663.336
+Mediterranean California Mixed Evergreen Forest,Agricultural,242.646
+Mediterranean California Mixed Evergreen Forest,NaturalVeg,1121.322
+Mediterranean California Mixed Evergreen Forest,Developed,813.63
+Mediterranean California Mixed Evergreen Forest,Exotics,1086.024
+Mediterranean California Mixed Evergreen Forest,OtherClearing,3.996
+Tamaulipan Floodplain,Agricultural,642.468
+Tamaulipan Floodplain,NaturalVeg,1548.228
+Tamaulipan Floodplain,Developed,90.576
+Tamaulipan Floodplain,Exotics,697.746
+Northwestern Great Plains Aspen Forest and Parkland,Agricultural,213.786
+Northwestern Great Plains Aspen Forest and Parkland,NaturalVeg,2354.532
+Northwestern Great Plains Aspen Forest and Parkland,Developed,26.862
+Northwestern Great Plains Aspen Forest and Parkland,Exotics,136.974
+Appalachian Shale Barrens,Agricultural,0.888
+Appalachian Shale Barrens,NaturalVeg,2587.632
+Appalachian Shale Barrens,Developed,134.976
+Appalachian Shale Barrens,Exotics,2.664
+Appalachian Shale Barrens,OtherClearing,0.222
+Mediterranean California Sparsely Vegetated Systems,Agricultural,50.838
+Mediterranean California Sparsely Vegetated Systems,NaturalVeg,421.356
+Mediterranean California Sparsely Vegetated Systems,Developed,285.714
+Mediterranean California Sparsely Vegetated Systems,Exotics,266.622
+Mediterranean California Sparsely Vegetated Systems,OtherClearing,1668.996
+Southern Appalachian Grass and Shrub Bald,Agricultural,147.408
+Southern Appalachian Grass and Shrub Bald,NaturalVeg,1921.854
+Southern Appalachian Grass and Shrub Bald,Developed,258.63
+Southern Appalachian Grass and Shrub Bald,Exotics,58.83
+Eastern Serpentine Woodland,Agricultural,10.656
+Eastern Serpentine Woodland,NaturalVeg,1092.24
+Eastern Serpentine Woodland,Developed,162.504
+Eastern Serpentine Woodland,Exotics,101.676
+Mississippi Delta Maritime Forest,NaturalVeg,1231.656
+Mississippi Delta Maritime Forest,Exotics,0.666
+North Pacific Sparsely Vegetated Systems,Agricultural,35.964
+North Pacific Sparsely Vegetated Systems,NaturalVeg,490.176
+North Pacific Sparsely Vegetated Systems,Developed,24.642
+North Pacific Sparsely Vegetated Systems,Exotics,55.944
+North Pacific Sparsely Vegetated Systems,OtherClearing,0.888
+Southern Rocky Mountain Ponderosa Pine Savanna-South,NaturalVeg,187.368
+Southern Rocky Mountain Ponderosa Pine Savanna-South,Exotics,5.55

@@ -43,7 +43,7 @@ ggplot(repeats, aes(x = VDEP, y = as.factor(GP), fill = stat(x))) +
   labs(
     title = "Smoothed Vegetation Departure per Geophysical Setting (Ag and Urban areas removed)",
     subtitle = "Used grouped Geophysical Settings; Geophysical settings with lowest average VDEP on top",
-    caption = "Data from TNC's Center for Resilient Conservation Science",
+    caption = "Data from TNC's Center for Resilient Conservation Science and LANDFIRE",
     x = "Vegetation Departure (0 = low, 100 = high)",
     y = "Geophysical Setting" ) 
 

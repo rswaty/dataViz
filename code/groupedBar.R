@@ -1,8 +1,7 @@
 ## grouped bar
 
-## load libraries and set theme
-
-pacman::p_load(tidyverse, ggsci, ggtext, readr, dplyr, DT, crosstalk, plotly)
+## load libraries
+library(tidyverse)
 
 
 ## read data
@@ -40,7 +39,7 @@ sclasplot <-
   scale_x_discrete(limits = rev(levels(bps_scls3$Sclass))) +
   labs(
     title = "Succession Classes past and present for the Upper Cheat Watershed",
-    subtitle = "Appalachian (Hemlock-)Northern Hardwood Forest",
+    subtitle = "Top three most prevalent Biophysical Settings",
     caption = "Late-development, closed canopy, tallest succession class not present in this BpS. \nData from landfire.gov.",
     x = "",
     y = "Percent")+
@@ -51,13 +50,22 @@ sclasplot <-
   scale_fill_manual(values = c("#3d4740", "#32a852" ), # present (grey), historical (green)
                     name = " ", 
                     labels = c("Present",
-                               "Past"))
+                               "Past")) +
+  facet_grid(~BpS) +
+  theme(panel.spacing = unit(.05, "lines"),
+        panel.border = element_rect(color = "black", fill = NA, size = 1), 
+        strip.background = element_rect(color = "black", size = 1))
 
-sclasplotHardwoods <- sclasplot %+% subset(bps_scls3, BpS %in% c("Appalachian (Hemlock-)Northern Hardwood Forest"))
+sclasplot  
 
-sclasplotHardwoods #may not be able to view here?
+### if you want to select one BpS at a time and make a chart:
+##  make sure to name the chart in the title or subtitle
 
-ggsave(filename="charts/sclasplotHardwoods.png",width=10,height=8,units='in',dpi=300)
+# sclasplotHardwoods <- sclasplot %+% subset(bps_scls3, BpS %in% c("Appalachian (Hemlock-)Northern Hardwood Forest"))
+# 
+# sclasplotHardwoods #may not be able to view here?
+
+ggsave(filename="charts/sclasplot.png",width=10,height=8,units='in',dpi=300)
 
 
 

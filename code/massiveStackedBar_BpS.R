@@ -8,12 +8,15 @@
 
 library(plotly)
 library(scales)
+library(stringr)
 library(tidyverse)
 
 
-data <- read.csv("bps_evt_all.csv")
+data <- read.csv("data/bps_evt_all.csv")
 
-data$BPS_NAME <- factor(data$BPS_NAME, levels = unique(data$BPS_NAME))
+data$shortName <- str_wrap(data$BPS_NAME, width = 30)
+
+data$shortName <- factor(data$shortName, levels = unique(data$shortName))
 
 data$EVT_PHYS2 <- factor(data$EVT_PHYS2, levels = c(
   "NaturalVeg",
@@ -25,8 +28,9 @@ data$EVT_PHYS2 <- factor(data$EVT_PHYS2, levels = c(
 
 data$EVT_PHYS2 <- factor(data$EVT_PHYS2, levels = rev(levels(data$EVT_PHYS2)))
 
+
 plot <-
-  ggplot(data, aes(fill = EVT_PHYS2, y = ACRES, x = BPS_NAME)) +
+  ggplot(data, aes(fill = EVT_PHYS2, y = ACRES, x = shortName)) +
   geom_bar(position = "stack", stat = "identity") +
   coord_flip() +
   labs(
@@ -51,5 +55,5 @@ plot <-
 
 plot
 
-plotly <- ggplotly(plot, height = 5200)
+plotly <- ggplotly(plot, height = 17200, width = 600)
 plotly

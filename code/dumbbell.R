@@ -2,36 +2,17 @@
 
 ###########  Dumbbell   #######################
 
-
+## load packages
 
 library(tidyverse)
 library(scales)
-library(extrafont)
 library(ggplot2) 
 library(ggalt)   
-library(plotly)
-library(htmltools)
+
+# read in data
 
 
-currentFireAcresStates <- read_csv("data/currentFireAcresStates.csv")
-View(currentFireAcresStates)
-
-histAreaBurnedbyState <- read_csv("data/histAreaBurnedbyState.csv")
-View(histAreaBurnedbyState)
-
-historicalCurrentFire <- merge(currentFireAcresStates, histAreaBurnedbyState, by = "state")
-
-historicalCurrentFire <- historicalCurrentFire %>%
-  mutate(difference = historic_acres_burned - currentAverageAcres)
-
-write.csv(historicalCurrentFire, file = "histCurStates.csv")
-
-
-historicalCurrentFire$state <- factor(historicalCurrentFire$state , levels = rev(unique(historicalCurrentFire$state)))
-
-write.csv(historicalCurrentFire, file = "historicalVScurrentDraft.csv")
-
-
+histCurStates <- read_csv("data/histCurStates.csv")
 ## ggplot with mean lines
 
 avgCur <- mean(historicalCurrentFire$currentAverageAcres)
@@ -53,58 +34,16 @@ db <-
                 colour_x="#edae52", 
                 colour_xend = "#9fb059")+
   labs(x=NULL, y=NULL) +
-  theme_bw(base_size = 14, base_family = "Calisto MT") +
+  theme_bw(base_size = 16) +
   scale_x_continuous(label=comma) + 
   geom_vline(xintercept = avgCur) +
-  geom_vline(xintercept = avgHist)
+  geom_vline(xintercept = avgHist) +
+  labs(
+    title = "Comparison of historical and current average annual fire amounts",
+    subtitle = "Yellow = Current (average of 1999-2014), Green = Historical (pre-European colonization)",
+    caption = "\nData from landfire.gov.",
+    x = "",
+    y = "Acres")
 
 db
 
-## plotly commplicated interactive
-
-
-vlineCUR <- function(x = avgCur, color = "grey") {
-  list(
-    type = "line", 
-    y0 = 0, 
-    y1 = 1, 
-    yref = "paper",
-    x0 = x, 
-    x1 = x, 
-    line = list(color = color)
-  )
-}
-
-vlineHIST <- function(x = avgHist, color = "grey") {
-  list(
-    type = "line", 
-    y0 = 0, 
-    y1 = 1, 
-    yref = "paper",
-    x0 = x, 
-    x1 = x, 
-    line = list(color = color)
-  )
-}
-
-
-
-
-
-
-
-
-fig <- plot_ly(historicalCurrentFire, color = I("gray80"))
-fig <- fig %>% add_segments(x = ~currentAverageAcres, xend = ~historic_acres_burned, y = ~state, yend = ~state, showlegend = FALSE)
-fig <- fig %>% add_markers(x = ~currentAverageAcres, y = ~state, name = "Current", color = I("#edae52"), showlegend = FALSE)
-fig <- fig %>% add_markers(x = ~historic_acres_burned, y = ~state, name = "Historical", color = I("#9fb059"), showlegend = FALSE)
-fig <- fig %>% layout(
-  xaxis = list(title = "Acres (in millions)"),
-  yaxis = list(title = "", dtick = 1),
-  margin = list(l = 65),
-  shapes = list(vlineCUR(), vlineHIST())
-)
-
-fig
-
-saveWidget(fig, "./charts/dumbbell.html")

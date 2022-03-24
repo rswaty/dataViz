@@ -8,7 +8,7 @@ library(igraph)
 library(readr)
 library(tidygraph)
 library(htmlwidgets)
-# saveWidget(p, file=paste0( getwd(), "/HtmlWidget/chord_interactive.html"))
+
 
 
 # read in data
@@ -31,10 +31,10 @@ groupColors <-c( "#e6e0be", # grassland OK
                  "#1d4220", # conifer OK
                  "#7db7c7", # riparian OK
                  "#397d3f", # hardwood-conifer OK
-                 "#917e5c", # shrub
-                 "#5e513a", # savana
-                 "#fed98e", # surface
-                 "#fe9929", # mixed
+                 "#917e5c", # shrub OK
+                 "#5e513a", # savana OK
+                 "#fed98e", # surface OK
+                 "#fe9929", # mixed OK
                  "#cc4c02")
 
 #MODIFIED
@@ -48,11 +48,6 @@ groupColors <-c( "#e6e0be", # grassland OK
 #                  "#e8ede9", # surface
 #                  "#bfbfbf", # mixed
 #                  "#aba9a9") 
-
-
-
-
-
 
 #make chord diagram
 chord<-chorddiag(data = histFireGVchordMatrix2,

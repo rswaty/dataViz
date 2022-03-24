@@ -25,6 +25,7 @@ For example chart go [here](./charts/animatedLine.html).
 * uses hrbrthemes for theme, including font
 * uses scale limits
 * saved (without parameters such as size)
+* little annotation
 
 ## Chord
 
@@ -46,12 +47,43 @@ For example chart go [here](./charts/dumbbell.html).
     * https://towardsdatascience.com/create-dumbbell-plots-to-visualize-group-differences-in-r-3536b7d0a19a
     * https://rpubs.com/ageek/ggplot-adv-part2
     * https://yonicd.github.io/ggalt/reference/geom_dumbbell.html
-* has mostly uncustomized ggplot example
-* has interactive plotly example
-* added mean lines to both ggplot and plotly examples
+* added mean 
 * used scales to add commas
-* plotly is complicated
 
+
+## Grouped bar (useful for sclasses, ref vs. current)
+
+For the code go [here](./code/groupedBar.R).
+
+For example chart go [here](./charts/sclasplotHardwoods.png)
+
+* subset to make chart of only one value (BpS in this example, commented out)
+* set order of bars (then reverse)
+* pivot data longer
+* has line for facets 
+
+## Heatmap (to explore veg height vs. cover for example)
+
+For the code go [here](./code/heatmap.R).
+
+For example chart go [here](./charts/coveHeatChart.png)
+
+* ggplot
+* pacman to load libraries, check for install and updates
+* add character (e.g., "%") to axis labels
+* reverse color ramp
+
+
+## Ridgeline (for distributions...sorta stretched the purpose here :))
+
+For the code go [here](./code/ridgeline.R).
+
+For example map go [here](./charts/ridgeline)
+
+* has gradients
+* faceted
+* has "repeating lines" data formatting
+* orders facets
 
 ## Sankey
 
@@ -84,39 +116,7 @@ For example chart go [here](./charts/waffle.png)
 * added space between y-axis and chart
 * ggsave
 
-## Heatmap
 
-For the code go [here](./code/heatmap.R).
-
-For example chart go [here](./charts/coveHeatChart.png)
-
-* ggplot
-* pacman to load libraries, check for install and updates
-* add character (e.g., "%") to axis labels
-* reverse color ramp
-
-
-## Grouped bar (useful for sclasses, ref vs. current)
-
-For the code go [here](./code/groupedBar.R).
-
-For example chart go [here](./charts/sclasplotHardwoods.png)
-
-* subset to make chart of only one value (BpS in this example)
-* set order of bars (then reverse)
-* pivot data longer
-* has line for facets (commented out)
-
-## Ridgeline
-
-For the code go [here](./code/ridgeline.R).
-
-For example map go [here](./charts/ridgeline)
-
-* has gradients
-* faceted
-* has "repeating lines" data formatting
-* orders facets
 
 # Maps
 

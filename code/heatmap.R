@@ -4,7 +4,7 @@
 
 
 # libraries
-pacman::p_load(ggplot2, RColorBrewer, readr, scales)
+pacman::p_load(tidyverse,  RColorBrewer,  scales)
 
 # cove forest data from Upper Cheat watershed in WV
 coveHeat <- read_csv("./data/coveHeat.csv")
