@@ -16,6 +16,8 @@ bps_scls3 <- bps_scls3 %>%
     values_to = "Percent"
     )
 ## order sclasses, then reverse 'cause I messed up (but maybe this will help someone later)
+# these HAVE TO MATCH what is in the spreadsheet
+# try making chart without lines 21-33 first to see how it looks
 bps_scls3$Sclass <- factor(bps_scls3$Sclass, levels = c(
   "Regeneration", 
   "Mid-development, open canopy", 

@@ -35,7 +35,7 @@ plot <-
   coord_flip() +
   labs(
     title = "Conversion status of our 402 ecosystems",
-    subtitle = "~62% of America remains as Natural Vegetation, the condition of which is highly degraded for much of the country",
+    subtitle = "Conversion status of our 402 ecosystems",
     caption = "Data from landfire.gov.",
     x = "",
     y = "Acres",
@@ -55,5 +55,7 @@ plot <-
 
 plot
 
-plotly <- ggplotly(plot, height = 17200, width = 600)
+plotly <- ggplotly(plot, height = 17200, width = 600)  
+
+
 plotly

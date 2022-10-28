@@ -1,0 +1,113 @@
+ECOSYSTEM,EVT_PHYS,Acres
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Hardwood,9332936.388
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Conifer-Hardwood,3826974.972
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Conifer,1827537.744
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Agricultural,571174.032
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Developed,399139.35
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Riparian,261256.926
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Developed-Roads,240472.62
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Exotic Herbaceous,192723.75
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Developed-Low Intensity,78663.258
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Exotic Tree-Shrub,64604.442
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Developed-Medium Intensity,23256.942
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,8178.924
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Developed-High Intensity,5611.716
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Shrubland,1782.882
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Grassland,551.892
+Appalachian (Hemlock)-Northern Hardwood Forest: typic,Sparsely Vegetated,38.184
+Northeastern Interior Dry-Mesic Oak Forest: typic,Hardwood,11413353.44
+Northeastern Interior Dry-Mesic Oak Forest: typic,Conifer-Hardwood,2013643.674
+Northeastern Interior Dry-Mesic Oak Forest: typic,Conifer,639372.432
+Northeastern Interior Dry-Mesic Oak Forest: typic,Developed,501080.418
+Northeastern Interior Dry-Mesic Oak Forest: typic,Agricultural,495714.678
+Northeastern Interior Dry-Mesic Oak Forest: typic,Developed-Roads,245493.594
+Northeastern Interior Dry-Mesic Oak Forest: typic,Exotic Herbaceous,158565.942
+Northeastern Interior Dry-Mesic Oak Forest: typic,Riparian,111716.838
+Northeastern Interior Dry-Mesic Oak Forest: typic,Developed-Low Intensity,96196.596
+Northeastern Interior Dry-Mesic Oak Forest: typic,Exotic Tree-Shrub,33932.922
+Northeastern Interior Dry-Mesic Oak Forest: typic,Developed-Medium Intensity,31333.746
+Northeastern Interior Dry-Mesic Oak Forest: typic,Developed-High Intensity,10257.51
+Northeastern Interior Dry-Mesic Oak Forest: typic,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,7073.142
+Northeastern Interior Dry-Mesic Oak Forest: typic,Grassland,1.332
+Northeastern Interior Dry-Mesic Oak Forest: typic,Sparsely Vegetated,0.444
+Laurentian-Acadian Northern Hardwood Forest: typic,Hardwood,9454177.026
+Laurentian-Acadian Northern Hardwood Forest: typic,Conifer-Hardwood,1785098.448
+Laurentian-Acadian Northern Hardwood Forest: typic,NA,623992.938
+Laurentian-Acadian Northern Hardwood Forest: typic,Conifer,510640.626
+Laurentian-Acadian Northern Hardwood Forest: typic,Exotic Tree-Shrub,192938.202
+Laurentian-Acadian Northern Hardwood Forest: typic,Exotic Herbaceous,168345.042
+Laurentian-Acadian Northern Hardwood Forest: typic,Agricultural,165244.368
+Laurentian-Acadian Northern Hardwood Forest: typic,Developed,86502.966
+Laurentian-Acadian Northern Hardwood Forest: typic,Developed-Roads,75153.438
+Laurentian-Acadian Northern Hardwood Forest: typic,Riparian,62677.926
+Laurentian-Acadian Northern Hardwood Forest: typic,Developed-Low Intensity,28961.232
+Laurentian-Acadian Northern Hardwood Forest: typic,Sparsely Vegetated,6250.632
+Laurentian-Acadian Northern Hardwood Forest: typic,Developed-Medium Intensity,2559.216
+Laurentian-Acadian Northern Hardwood Forest: typic,Shrubland,1100.232
+Laurentian-Acadian Northern Hardwood Forest: typic,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,445.11
+Laurentian-Acadian Northern Hardwood Forest: typic,Developed-High Intensity,344.1
+Laurentian-Acadian Northern Hardwood Forest: typic,Grassland,1.554
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,NA,3365192.55
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Conifer-Hardwood,3252973.992
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Conifer,2694668.634
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Hardwood,1583799.948
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Exotic Herbaceous,170618.1
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Agricultural,164323.956
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Exotic Tree-Shrub,159095.412
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Riparian,125216.88
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Developed-Roads,67654.056
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Developed,57770.838
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Developed-Low Intensity,40791.612
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Sparsely Vegetated,19128.852
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Developed-Medium Intensity,2688.864
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Developed-High Intensity,465.09
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,436.674
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Shrubland,383.616
+Acadian Low Elevation Spruce-Fir-Hardwood Forest,Grassland,2.22
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Conifer,1870302.048
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Conifer-Hardwood,1850767.38
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Hardwood,1628589.336
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Agricultural,128363.73
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Developed,115199.574
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Riparian,100544.022
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Developed-Roads,82757.604
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Exotic Herbaceous,72079.404
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Exotic Tree-Shrub,43330.182
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Developed-Low Intensity,23115.972
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,NA,15216.768
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Developed-Medium Intensity,6101.226
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,1189.476
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Developed-High Intensity,1061.16
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Sparsely Vegetated,222.444
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Shrubland,39.294
+Laurentian-Acadian Pine-Hemlock-Hardwood Forest: typic,Grassland,1.998
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),NA,2787613.152
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Conifer-Hardwood,1322046.852
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Hardwood,921321.09
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Conifer,201015.006
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Exotic Tree-Shrub,160884.066
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Agricultural,131196.672
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Exotic Herbaceous,112199.244
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Developed-Low Intensity,38620.674
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Sparsely Vegetated,29404.122
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Riparian,13696.734
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Developed-Roads,3.996
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Developed,2.442
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Developed-Medium Intensity,0.888
+Early Seral (Intolerant) Hardwood and Mixedwood Forest (Canada),Shrubland,0.222
+Central Appalachian Dry Oak-Pine Forest,Hardwood,2930857.764
+Central Appalachian Dry Oak-Pine Forest,Conifer-Hardwood,524397.3
+Central Appalachian Dry Oak-Pine Forest,Conifer,184723.536
+Central Appalachian Dry Oak-Pine Forest,Agricultural,63883.386
+Central Appalachian Dry Oak-Pine Forest,Developed,52478.358
+Central Appalachian Dry Oak-Pine Forest,Exotic Herbaceous,37920.264
+Central Appalachian Dry Oak-Pine Forest,Developed-Roads,22237.962
+Central Appalachian Dry Oak-Pine Forest,Exotic Tree-Shrub,8050.83
+Central Appalachian Dry Oak-Pine Forest,Developed-Low Intensity,7191.912
+Central Appalachian Dry Oak-Pine Forest,Developed-Medium Intensity,2205.126
+Central Appalachian Dry Oak-Pine Forest,Riparian,1870.128
+Central Appalachian Dry Oak-Pine Forest,Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,1675.656
+Central Appalachian Dry Oak-Pine Forest,Developed-High Intensity,689.754
+Central Appalachian Dry Oak-Pine Forest,Shrubland,11.1
+Central Appalachian Dry Oak-Pine Forest,Grassland,3.552
+Central Appalachian Dry Oak-Pine Forest,Sparsely Vegetated,3.108
