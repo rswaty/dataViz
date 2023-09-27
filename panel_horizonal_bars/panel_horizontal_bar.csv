@@ -1,0 +1,84 @@
+GP,Now,Percent
+Acidic Granitic,NaturalVeg,82.40522927
+Acidic Granitic,Agriculture,13.0773396
+Acidic Granitic,Barren or Sparse,0.234791857
+Acidic Granitic,Urban,4.066195193
+Acidic Granitic,Water,0.216444082
+Acidic Loam,NaturalVeg,75.97030164
+Acidic Loam,Agriculture,19.55797913
+Acidic Loam,Barren or Sparse,0.00904019
+Acidic Loam,Urban,4.345043463
+Acidic Loam,Water,0.117635577
+Acidic sedimentary,NaturalVeg,65.11006697
+Acidic sedimentary,Agriculture,21.2989645
+Acidic sedimentary,Barren or Sparse,0.065467962
+Acidic sedimentary,Urban,13.29916246
+Acidic sedimentary,Water,0.226338116
+Calcareous Loam,NaturalVeg,25.53398164
+Calcareous Loam,Agriculture,61.34519037
+Calcareous Loam,Barren or Sparse,0.044541914
+Calcareous Loam,Urban,12.91696399
+Calcareous Loam,Water,0.159322089
+Calcareous Sedimentary,NaturalVeg,50.05519286
+Calcareous Sedimentary,Agriculture,43.2680872
+Calcareous Sedimentary,Barren or Sparse,0.087286003
+Calcareous Sedimentary,Urban,6.473395684
+Calcareous Sedimentary,Water,0.116038254
+Clay/Silt,NaturalVeg,26.30756073
+Clay/Silt,Agriculture,55.43782924
+Clay/Silt,Barren or Sparse,0.075976882
+Clay/Silt,Urban,17.81067638
+Clay/Silt,Water,0.367956769
+Deep Loess,NaturalVeg,27.14553577
+Deep Loess,Agriculture,63.63898591
+Deep Loess,Barren or Sparse,0.027331923
+Deep Loess,Urban,9.06142499
+Deep Loess,Water,0.126721402
+Calcareous,NaturalVeg,46.92044233
+Calcareous,Agriculture,43.56549959
+Calcareous,Barren or Sparse,0.092297391
+Calcareous,Urban,9.165644622
+Calcareous,Water,0.256116067
+Loam,NaturalVeg,33.5953698
+Loam,Agriculture,48.56150068
+Loam,Barren or Sparse,0.073142619
+Loam,Urban,15.14902913
+Loam,Water,2.620957765
+Moderately calcareous,NaturalVeg,54.28875646
+Moderately calcareous,Agriculture,34.90145311
+Moderately calcareous,Barren or Sparse,0.066249023
+Moderately calcareous,Urban,10.49771084
+Moderately calcareous,Water,0.245830578
+Sand,NaturalVeg,62.22138047
+Sand,Agriculture,26.21622479
+Sand,Barren or Sparse,0.092417276
+Sand,Urban,11.10037609
+Sand,Water,0.369601372
+Silt/clay,NaturalVeg,31.93504517
+Silt/clay,Agriculture,57.18059022
+Silt/clay,Barren or Sparse,0.038890837
+Silt/clay,Urban,9.394055511
+Silt/clay,Water,1.451418263
+Mafic/Intermediate Granitic,NaturalVeg,85.92623275
+Mafic/Intermediate Granitic,Agriculture,8.920967944
+Mafic/Intermediate Granitic,Barren or Sparse,0.358696487
+Mafic/Intermediate Granitic,Urban,4.567766797
+Mafic/Intermediate Granitic,Water,0.226336022
+Moderately Calcareous Sedimentary,NaturalVeg,55.81774568
+Moderately Calcareous Sedimentary,Agriculture,38.46090749
+Moderately Calcareous Sedimentary,Barren or Sparse,0.023400717
+Moderately Calcareous Sedimentary,Urban,5.588120961
+Moderately Calcareous Sedimentary,Water,0.109825159
+Ultramafic,NaturalVeg,91.77743431
+Ultramafic,Agriculture,4.57496136
+Ultramafic,Urban,3.647604328
+Loam over limestone,NaturalVeg,22.00123533
+Loam over limestone,Agriculture,69.45027795
+Loam over limestone,Barren or Sparse,0.080296479
+Loam over limestone,Urban,6.79431748
+Loam over limestone,Water,1.673872761
+ Silt/clay over limestone,NaturalVeg,50.06494218
+ Silt/clay over limestone,Agriculture,43.611603
+ Silt/clay over limestone,Barren or Sparse,0.021368673
+ Silt/clay over limestone,Urban,5.496580083
+ Silt/clay over limestone,Water,0.805506057
